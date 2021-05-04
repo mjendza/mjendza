@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mateusz Jendza
 
-I rally like MTB and spend time in sauna, but this is GitHub ;)
+I rally like MTB :bike: and spend time in sauna :sunny:, but this is GitHub and should be about programming!
 
 #### 🔭 I’m currently working on:
 
