@@ -17,10 +17,17 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmjendza)
 ![Twitter Follow](https://img.shields.io/twitter/follow/mjendza?style=social)
 
-#### Links that changed my life:
+#### Links/resources that changed my life:
 
--   [Wat](https://www.destroyallsoftware.com/talks/wat)
+##### 2022
+- [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
+##### 2021
 -   [Foxes](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
+-   [Designing Data-Intensive Applications](https://www.amazon.com/_/dp/1449373321)
+-   [Database Internals](https://www.amazon.com/_/dp/1492040347)
+##### Other
+-   [Wat](https://www.destroyallsoftware.com/talks/wat)
+
 -   [Mountain Biking](https://www.youtube.com/watch?v=WPVRU7jSYkQ)
 -   [Żywot programisty](https://youtu.be/_q-l6Cn6WxY) - sorry only for polish programmers :construction_worker:
 
