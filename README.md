@@ -26,7 +26,7 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 -   [Designing Data-Intensive Applications](https://www.amazon.com/_/dp/1449373321)
 -   [Database Internals](https://www.amazon.com/_/dp/1492040347)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 1](https://open.spotify.com/episode/117MX2HHDcOGWFcw8XBoA5)
--   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 2]([https://open.spotify.com/episode/117MX2HHDcOGWFcw8XBoA5](https://open.spotify.com/episode/0s1zyqP21k6LwECLZAxSje))
+-   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 2](https://open.spotify.com/episode/0s1zyqP21k6LwECLZAxSje)
 ##### Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 
