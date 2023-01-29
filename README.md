@@ -20,6 +20,7 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 #### Links/resources that changed my life:
 
 ##### 2022
+- [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
 ##### 2021
 -   [Foxes](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
