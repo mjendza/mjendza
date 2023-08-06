@@ -19,13 +19,16 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 
 #### Links/resources that changed my life:
 
+##### 2023
+- 📖[The Software Architect Elevator](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
+
 ##### 2022
 - [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
 ##### 2021
 -   [Foxes](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
 -   [Designing Data-Intensive Applications](https://www.amazon.com/_/dp/1449373321)
--   [Database Internals](https://www.amazon.com/_/dp/1492040347)
+-   📖[Database Internals](https://www.amazon.com/_/dp/1492040347)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 1](https://open.spotify.com/episode/117MX2HHDcOGWFcw8XBoA5)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 2](https://open.spotify.com/episode/0s1zyqP21k6LwECLZAxSje)
 ##### Other
