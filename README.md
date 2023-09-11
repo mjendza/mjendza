@@ -34,6 +34,17 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 -   📖[Database Internals](https://www.amazon.com/_/dp/1492040347)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 1](https://open.spotify.com/episode/117MX2HHDcOGWFcw8XBoA5)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 2](https://open.spotify.com/episode/0s1zyqP21k6LwECLZAxSje)
+
+##### IAM
+- [OCTA: OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
+- https://www.nango.dev/blog/why-is-oauth-still-hard
+- https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc 
+- https://auth0.com/docs/authorization
+- [awesome-iam](https://github.com/kdeldycke/awesome-iam)
+- OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
+
+- [Open ID Connect Authorization Code Flow Diagram](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
+
 ##### Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 
