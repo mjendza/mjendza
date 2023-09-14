@@ -20,6 +20,7 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 #### Links/resources that changed my life:
 
 ##### 2023
+- [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Oslo 2023](https://www.youtube.com/watch?v=mrGfahzt-4Q)
 - [GitHub - ACA-Landing-Zone-Accelerator](https://github.com/Azure/ACA-Landing-Zone-Accelerator)
 - [Prepare your Azure Cloud Environment with the Cloud Adoption Framework](https://www.thomasmaurer.ch/2023/07/prepare-your-azure-cloud-environment-with-the-cloud-adoption-framework/)
 - 📖[The Software Architect Elevator](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
