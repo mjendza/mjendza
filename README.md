@@ -1,16 +1,12 @@
 ### Hi there 👋 I'm Mateusz Jendza
 
-I rally like MTB and spend time in sauna, but this is GitHub ;)
+I like MTB and spend time in the sauna, but this is GitHub ;)
 
 #### 🔭 I’m currently working on:
 
 -   :rocket: [Entra Verified Demos](https://portal.factorlabs.pl)
 -   One more VC sample: [Present Employee Credential](https://vc.factorlabs.pl/present.html) - check on desktop and mobile sample
 
-#### 🌱 I’m currently learning:
-
--   **decoupling** with serverless (AWS) -> Event-Driven Architecture - check my [PR](https://github.com/mjendza/aws-sandbox/pull/22)
--   CDK
 
 #### Social Media
 [LinkedIn](https://www.linkedin.com/in/mjendza/)
