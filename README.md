@@ -4,8 +4,8 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 
 #### 🔭 I’m currently working on:
 
--   :rocket: [aws-sandbox](https://github.com/mjendza/aws-sandbox) - This is my AWS Serverless stack. Check [decisions-log](https://github.com/mjendza/aws-sandbox#decisions-log)
--   :airplane: [Sample-Azure-Function](https://github.com/mjendza/AzureFunctionSandbox) - This is my sample Azure C# Function
+-   :rocket: [Entra Verified Demos](https://portal.factorlabs.pl)
+-   One more VC sample: [Present Employee Credential](https://vc.factorlabs.pl/present.html) - check on desktop and mobile sample
 
 #### 🌱 I’m currently learning:
 
@@ -14,11 +14,22 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 
 #### Social Media
 [LinkedIn](https://www.linkedin.com/in/mjendza/)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmjendza)
-![Twitter Follow](https://img.shields.io/twitter/follow/mjendza?style=social)
+[Blog](https://mjendza.net)
 
 #### Links/resources that changed my life:
+##### 2024
+###### ENTRA ID - from [John Savill](https://www.youtube.com/@NTFAQGuy)
+- [**Workload Identity Protection**](https://youtu.be/TASsrY_ilWc)
 
+- [**Governance**](https://youtu.be/yqiZhVdo6WE)
+
+- [**Managed ID**](https://youtu.be/rC1TV0_sIrM)
+
+- [**App Registrations, Enterprise Apps and Service Principals**](https://youtu.be/WVNvoiA_ktw)
+
+- [**PIM**](https://youtu.be/gccgIkR8_a0)
+
+  
 ##### 2023
 
 - [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Oslo 2023](https://www.youtube.com/watch?v=mrGfahzt-4Q)
@@ -30,12 +41,14 @@ I rally like MTB and spend time in sauna, but this is GitHub ;)
 - 📖[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
+  
 ##### 2021
 -   [Foxes](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
 -   📖 :boom: [Designing Data-Intensive Applications](https://www.amazon.com/_/dp/1449373321)
 -   📖[Database Internals](https://www.amazon.com/_/dp/1492040347)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 1](https://open.spotify.com/episode/117MX2HHDcOGWFcw8XBoA5)
 -   [Serverless Chats: Streaming Data at Scale Using Serverless with Anahit Pogosova Part 2](https://open.spotify.com/episode/0s1zyqP21k6LwECLZAxSje)
+  
 ##### 2020
 - :boom:[Learn Advanced Distributed Systems Design](https://particular.net/adsd)
 
