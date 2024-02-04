@@ -16,18 +16,12 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ##### 2024
 ###### ENTRA ID - from [John Savill](https://www.youtube.com/@NTFAQGuy)
 - [**Workload Identity Protection**](https://youtu.be/TASsrY_ilWc)
-
 - [**Governance**](https://youtu.be/yqiZhVdo6WE)
-
 - [**Managed ID**](https://youtu.be/rC1TV0_sIrM)
-
 - [**App Registrations, Enterprise Apps and Service Principals**](https://youtu.be/WVNvoiA_ktw)
-
 - [**PIM**](https://youtu.be/gccgIkR8_a0)
-
   
 ##### 2023
-
 - [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Oslo 2023](https://www.youtube.com/watch?v=mrGfahzt-4Q)
 - [GitHub - ACA-Landing-Zone-Accelerator](https://github.com/Azure/ACA-Landing-Zone-Accelerator)
 - [Prepare your Azure Cloud Environment with the Cloud Adoption Framework](https://www.thomasmaurer.ch/2023/07/prepare-your-azure-cloud-environment-with-the-cloud-adoption-framework/)
