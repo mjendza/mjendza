@@ -50,6 +50,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [awesome-iam](https://github.com/kdeldycke/awesome-iam)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
 
+##### MSAL - OpenID Connect with Entra ID and Azure AD B2C
+- [MS Samples](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2)
+- [MSAL - Retry policies](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/retry-policy)
+- [MSAL Logger](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/msal-logging#iidentitylogger-implementation)
 - [Open ID Connect Authorization Code Flow Diagram](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
 
 ##### Other
