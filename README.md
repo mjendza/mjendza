@@ -14,6 +14,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 #### Links/resources that changed my life:
 ##### 2024
+- [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 ###### ENTRA ID - from [John Savill](https://www.youtube.com/@NTFAQGuy)
 - [**Workload Identity Protection**](https://youtu.be/TASsrY_ilWc)
 - [**Governance**](https://youtu.be/yqiZhVdo6WE)
