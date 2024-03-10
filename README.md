@@ -4,9 +4,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 #### 🔭 I’m currently working on:
 
--   :rocket: [Entra Verified Demos](https://portal.factorlabs.pl)
--   One more VC sample: [Present Employee Credential](https://vc.factorlabs.pl/present.html) - check on desktop and mobile sample
-
+-   :rocket: [Entra Verified ID Demos](https://vc.factorlabs.pl)
 
 #### Social Media
 [LinkedIn](https://www.linkedin.com/in/mjendza/)
