@@ -13,6 +13,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 #### Links/resources that changed my life:
 ##### 2024
+- [VC for Europeans](https://github.com/goeIDAS/testbed) 
+- [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
+- [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
+- [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
 - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 ###### ENTRA ID - from [John Savill](https://www.youtube.com/@NTFAQGuy)
 - [**Workload Identity Protection**](https://youtu.be/TASsrY_ilWc)
