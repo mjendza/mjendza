@@ -8,8 +8,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 -   :rocket: [Entra Verified ID Demos](https://vc.factorlabs.pl)
 
 #### Social Media
-[LinkedIn](https://www.linkedin.com/in/mjendza/)
-[Blog](https://mjendza.net)
+- 👱[LinkedIn](https://www.linkedin.com/in/mjendza/)
+- 📖[Blog](https://mjendza.net)
 
 #### Links/resources that changed my life:
 ##### 2024
