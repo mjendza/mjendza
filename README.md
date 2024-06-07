@@ -12,6 +12,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - 📖[Blog](https://mjendza.net)
 
 #### Links/resources that changed my life:
+##### Verifiable Credentials 
+- TypeScript - https://github.com/openwallet-foundation/credo-ts
+- .Net - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
+  
 ##### 2024
 - [VC for Europeans](https://github.com/goeIDAS/testbed) 
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
