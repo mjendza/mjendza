@@ -17,7 +17,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
   
 ### 2024
-- Secure your website with the right security headers (Mozilla)[https://observatory.mozilla.org/] and (SecurityHeaders)[https://securityheaders.com/]
+- Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
 - [VC for Europeans](https://github.com/goeIDAS/testbed) 
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
 - [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
