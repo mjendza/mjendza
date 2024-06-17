@@ -15,6 +15,12 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ### Verifiable Credentials 
 - TypeScript - https://github.com/openwallet-foundation/credo-ts
 - .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
+
+### Enterprise
+#### Cloud Architecture Materials
+- https://github.com/Azure/Enterprise-Scale
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ with nice [visio drawing](https://github.com/microsoft/CloudAdoptionFramework/raw/main/ready/enterprise-scale-architecture.vsdx)
+
   
 ### 2024
 - Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
