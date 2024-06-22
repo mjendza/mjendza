@@ -5,7 +5,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ### 🔭 I’m currently working on:
 
 - 📐 [Entra Verified ID Workshop](https://github.com/mjendza/workshop-verified-id)
--   :rocket: [Entra Verified ID Demos](https://vc.factorlabs.pl)
+-   :rocket: [My DEMO with Entra Verified ID](https://vc.factorlabs.pl)
+-   :rocket: [My DEMO with Azure AD B2C and Entra External ID](https://portal.factorlabs.pl)
 
 ### Social Media
 - 👱[LinkedIn](https://www.linkedin.com/in/mjendza/)
