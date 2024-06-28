@@ -67,13 +67,15 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
 
 
-#### MSAL - OpenID Connect with Entra ID and Azure AD B2C
+#### MSAL | OpenID Connect | Azure ==> Authentication & Autorization 
 - [MS Samples](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2)
 - [MSAL - Retry policies](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/retry-policy)
 - [MSAL Logger](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/msal-logging#iidentitylogger-implementation)
 - [Open ID Connect Authorization Code Flow Diagram](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
 - [Postman Oauth Entra ID Collection](https://www.postman.com/platform-collections/workspace/d/collection/18113418-00c88086-f071-4ad6-901a-49ac46b33a63)
-
+- [Default Azure Credentials](https://nestenius.se/2024/04/18/default-azure-credentials-under-the-hood/)
+- [Authentication with multiple identity providers](https://damienbod.com/2023/11/13/authentication-with-multiple-identity-providers-in-asp-net-core/)
+  
 #### CIAM
 - [Auzre AD B2C MS Demo](https://woodgrovegroceries.net/)
 - [Entra External ID for Customers MS Demo](https://woodgrovedemo.com/)
