@@ -21,6 +21,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 #### Cloud Architecture Materials
 - https://github.com/Azure/Enterprise-Scale
 - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ with nice [visio drawing](https://github.com/microsoft/CloudAdoptionFramework/raw/main/ready/enterprise-scale-architecture.vsdx)
+##### Landing Zones
+- https://github.com/Azure/ALZ-Bicep/wiki/Accelerator
 
   
 ### 2024
