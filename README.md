@@ -83,6 +83,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [Auzre AD B2C MS Demo](https://woodgrovegroceries.net/)
 - [Entra External ID for Customers MS Demo](https://woodgrovedemo.com/)
 
+#### Azure & Microsoft 365
+- [Microsoft 365 Licensing Map](https://m365maps.com/)
 
 ##### Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
