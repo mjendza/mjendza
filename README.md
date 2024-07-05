@@ -6,22 +6,22 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 - 📐 [Entra Verified ID Workshop](https://github.com/mjendza/workshop-verified-id)
 
-## Factorlabs Verified Playground
+## Factorlabs Verified Playground - :rocket: https://vc.factorlabs.pl 
 ![image](https://github.com/mjendza/mjendza/assets/366901/a9a0a4b2-76ba-44d1-a587-ef481b252e77)
 
+### Details
 - Verified Employee Flow
 - Helpdesk Flow with Face Check
-- Product & Ingredient Flow
-- :rocket: https://vc.factorlabs.pl 
+- Product & Ingredient Flow 
 
-## Factorlabs Portal
+## Factorlabs Portal - ⚡ https://portal.factorlabs.pl ⚡
 ![image](https://github.com/mjendza/mjendza/assets/366901/63d284e2-dcca-496d-8f16-1af6f97729ce)
 
+### Details
 - My DEMO environment for Azure AD B2C with Verified ID
 - Entra External ID integration
 - Entra ID
 - And that all on a single web application :rocket:
-- ⚡ https://portal.factorlabs.pl ⚡
   
 
 # Social Media
