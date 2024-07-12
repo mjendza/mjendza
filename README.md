@@ -40,6 +40,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 #### Landing Zones
 - https://github.com/Azure/ALZ-Bicep/wiki/Accelerator
 
+## Software Architecture
+- Architecture Styles Worksheet: https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf
   
 ## 2024
 - Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
