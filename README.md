@@ -32,7 +32,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ## Verifiable Credentials 
 - TypeScript - https://github.com/openwallet-foundation/credo-ts
 - .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
-
+- React native wallet - https://github.com/openwallet-foundation/bifold-wallet
+  
 ## Enterprise
 ### Cloud Architecture Materials
 - https://github.com/Azure/Enterprise-Scale
@@ -45,7 +46,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
   
 ## 2024
 - Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
-- [VC for Europeans](https://github.com/goeIDAS/testbed) 
+- [VC for Europeans](https://github.com/goeIDAS/testbed)
+- [eIDAS test site](https://test.eid.as/)
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
 - [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
