@@ -88,6 +88,13 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [awesome-iam](https://github.com/kdeldycke/awesome-iam)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
 
+### Tools
+- Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
+- faking data and getting notification someone is accessing (credit card, AWS cred) https://canarytokens.org/generate
+
+#### Testing
+- https://oidcdebugger.com/debug
+- https://chrome.google.com/webstore/detail/saml-devtools-extension/jndllhgbinhiiddokbeoeepbppdnhhio
 
 ### MSAL | OpenID Connect | Azure ==> Authentication & Authorization 
 - [MS Samples](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2)
