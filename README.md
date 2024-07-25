@@ -88,6 +88,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [awesome-iam](https://github.com/kdeldycke/awesome-iam)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
 
+### Entra ID
+- https://github.com/merill/awesome-entra
+
 ### Tools
 - Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
 - faking data and getting notification someone is accessing (credit card, AWS cred) https://canarytokens.org/generate
