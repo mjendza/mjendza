@@ -115,7 +115,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 ### Azure & Microsoft 365
 - [Microsoft 365 Licensing Map](https://m365maps.com/)
+- https://azurecharts.com/
 
+  
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 
