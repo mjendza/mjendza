@@ -90,6 +90,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 ### Entra ID
 - https://github.com/merill/awesome-entra
+- big picture diagram https://github.com/msandbu/azuread
 
 ### Tools
 - Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
