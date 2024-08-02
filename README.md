@@ -118,7 +118,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [Microsoft 365 Licensing Map](https://m365maps.com/)
 - https://azurecharts.com/
 
-  
+#### blogs and people 
+- https://damienbod.com/
+- https://identity-man.eu/
+
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 
