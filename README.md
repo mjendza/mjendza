@@ -89,6 +89,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
 
 ### Entra ID
+- Newsletter: https://entra.news 
 - https://github.com/merill/awesome-entra
 - big picture diagram https://github.com/msandbu/azuread
 
