@@ -122,7 +122,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 #### blogs and people 
 - https://damienbod.com/
 - https://identity-man.eu/
+- https://www.troyhunt.com/
+- https://scotthelme.co.uk/
 
+  
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 
