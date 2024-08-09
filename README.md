@@ -119,12 +119,39 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [Microsoft 365 Licensing Map](https://m365maps.com/)
 - https://azurecharts.com/
 
-#### blogs and people 
+#### 👯👯 blogs and people 👯👯
 - https://damienbod.com/
 - https://identity-man.eu/
 - https://www.troyhunt.com/
 - https://scotthelme.co.uk/
 
+## 🤔🤔 Workstation & Tools & IDE's 🤔🤔
+### Identity 
+- SMS online service to test OTP: https://anonymsms.com/
+- Temporary Email Service (you can define your email address): https://www.minuteinbox.com/
+- [Postman Collection](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
+  
+#### Debbug JWT tokens (Open ID Connect flows)
+- https://oidcdebugger.com/debug
+- https://jwt.ms
+  
+#### Azure AD B2C
+- VS Code + B2C extension + APP insights debugger
+
+### Software Development
+- Mock Service (when you need to check the request payload ;) ) https://beeceptor.com/
+  
+#### Tunnel/proxy to the local environment
+- ngrok.com - need to pay 10$ for features
+- [www.cloudflare.com Tunnel](https://www.cloudflare.com/products/tunnel/)
+- Visual Studio IDE built-in proxy
+
+  
+### Other
+- https://www.base64decode.org/
+- https://www.urlencoder.org/
+
+   
   
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
