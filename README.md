@@ -140,7 +140,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 ### Software Development
 - Mock Service (when you need to check the request payload ;) ) https://beeceptor.com/
-  
+- Security Headers check https://securityheaders.com/
+
+   
 #### Tunnel/proxy to the local environment
 - ngrok.com - need to pay 10$ for features
 - [www.cloudflare.com Tunnel](https://www.cloudflare.com/products/tunnel/)
