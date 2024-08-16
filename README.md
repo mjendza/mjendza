@@ -125,6 +125,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://www.troyhunt.com/
 - https://scotthelme.co.uk/
 
+##### Entra ID
+- https://ourcloudnetwork.com/
+- https://www.cloud-architekt.net/
+
 ## 🤔🤔 Workstation & Tools & IDE's 🤔🤔
 ### Identity 
 - SMS online service to test OTP: https://anonymsms.com/
