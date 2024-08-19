@@ -92,6 +92,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Newsletter: https://entra.news 
 - https://github.com/merill/awesome-entra
 - big picture diagram https://github.com/msandbu/azuread
+#### Development & Samples
+- https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
+- https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
 
 ### Tools
 - Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
@@ -112,8 +115,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [Authentication with multiple identity providers](https://damienbod.com/2023/11/13/authentication-with-multiple-identity-providers-in-asp-net-core/)
   
 ### CIAM
-- [Auzre AD B2C MS Demo](https://woodgrovegroceries.net/)
-- [Entra External ID for Customers MS Demo](https://woodgrovedemo.com/)
+- [Microsoft Woodgrove Groceries -> Auzre AD B2C MS Demo](https://woodgrovegroceries.net/)
+- [Microsoft Woodgrove Groceries -> Entra External ID for Customers MS Demo](https://woodgrovedemo.com/)
 
 ### Azure & Microsoft 365
 - [Microsoft 365 Licensing Map](https://m365maps.com/)
