@@ -92,6 +92,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Newsletter: https://entra.news 
 - https://github.com/merill/awesome-entra
 - big picture diagram https://github.com/msandbu/azuread
+- Entra ID as a code: https://www.terraprovider.com/
+
+  
 #### Development & Samples
 - https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
