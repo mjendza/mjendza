@@ -93,7 +93,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://github.com/merill/awesome-entra
 - big picture diagram https://github.com/msandbu/azuread
 - Entra ID as a code: https://www.terraprovider.com/
-
+#### Workload Identity
+- https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
+- https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
+  
   
 #### Development & Samples
 - https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
