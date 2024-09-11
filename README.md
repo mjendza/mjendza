@@ -93,11 +93,15 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://github.com/merill/awesome-entra
 - big picture diagram https://github.com/msandbu/azuread
 - Entra ID as a code: https://www.terraprovider.com/
+  
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
 - https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
-  
-  
+
+#### Security & Monitoring
+- https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
+- https://github.com/reprise99/Sentinel-Queries
+    
 #### Development & Samples
 - Asp.Net Web App - Confidential Client: https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
@@ -141,7 +145,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ##### Entra ID
 - https://ourcloudnetwork.com/
 - https://www.cloud-architekt.net/
-
+- https://cloudbrothers.info/
+  
 ## 🤔🤔 Workstation & Tools & IDE's 🤔🤔
 ### Identity 
 - SMS online service to test OTP: https://anonymsms.com/
