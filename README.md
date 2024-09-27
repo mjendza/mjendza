@@ -132,6 +132,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ### Azure & Microsoft 365
 - [Microsoft 365 Licensing Map](https://m365maps.com/)
 - https://azurecharts.com/
+#### Azure Policies
+- https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition and connected repo: https://github.com/andrewmatveychuk/azure.policy
+- and from the previews link: https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition
+
 
 #### 👯👯 blogs and people 👯👯
 - https://damienbod.com/
