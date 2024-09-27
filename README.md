@@ -45,6 +45,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Architecture Styles Worksheet: https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf
   
 ## 2024
+- Functional Programming on .NET - The Best of Both Worlds - Isaac Abraham - NDC Oslo 2024: https://www.youtube.com/watch?v=V9GYPOsPj4M
+- Let's build the worst Event Sourcing system! - Oskar Dudycz - NDC London 2024: https://www.youtube.com/watch?v=20zvAJAhqS0
 - Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
 - [VC for Europeans](https://github.com/goeIDAS/testbed)
 - [eIDAS test site](https://test.eid.as/)
@@ -135,6 +137,12 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 #### Azure Policies
 - https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition and connected repo: https://github.com/andrewmatveychuk/azure.policy
 - and from the previews link: https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition
+#### Security
+- https://medium.com/@omaxel/allow-access-to-azure-app-service-only-from-azure-front-door-bdfa16bc675d
+- https://cloudtips.nl/securing-azure-web-apps-and-function-apps-with-azure-front-door-e4a5e4071290
+##### Landing Zone
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
+- https://github.com/Azure/ALZ-Bicep/wiki/Accelerator  
 
 
 #### 👯👯 blogs and people 👯👯
