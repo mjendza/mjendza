@@ -144,6 +144,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
 - https://github.com/Azure/ALZ-Bicep/wiki/Accelerator  
 
+### DevOps
+- https://medium.com/into-alm/configuration-as-code-moving-away-from-library-groups-in-azure-devops-e9ff683d150d
 
 #### 👯👯 blogs and people 👯👯
 - https://damienbod.com/
