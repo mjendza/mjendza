@@ -109,6 +109,12 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
 - JavaScript Public Client: https://github.com/Azure-Samples/ms-identity-docs-code-javascript
 
+### IAM & CIAM Solutions
+#### CIAM
+- https://auth0.com/
+- https://stytch.com/
+
+
 ### Tools
 - Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
 - faking data and getting notification someone is accessing (credit card, AWS cred) https://canarytokens.org/generate
