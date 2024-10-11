@@ -150,11 +150,19 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://cloudtips.nl/securing-azure-web-apps-and-function-apps-with-azure-front-door-e4a5e4071290
 ##### Landing Zone
 - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
-- https://github.com/Azure/ALZ-Bicep/wiki/Accelerator  
+- https://github.com/Azure/ALZ-Bicep/wiki/Accelerator
+- https://github.com/Azure/terraform-azurerm-lz-vending
 
 ### DevOps
 - https://medium.com/into-alm/configuration-as-code-moving-away-from-library-groups-in-azure-devops-e9ff683d150d
+- https://azure.github.io/Azure-Verified-Modules/
+- https://github.com/Azure/bicep-registry-modules
+  
+#### Entra ID as a Code
+- https://registry.terraform.io/providers/hashicorp/azuread/latest
+- https://terraprovider.com/
 
+    
 #### 👯👯 blogs and people 👯👯
 - https://damienbod.com/
 - https://identity-man.eu/
