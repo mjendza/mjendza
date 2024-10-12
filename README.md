@@ -200,8 +200,14 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [www.cloudflare.com Tunnel](https://www.cloudflare.com/products/tunnel/)
 - Visual Studio IDE built-in proxy
 
-  
-### Other
+### Smarthome (and not only)
+- HomeAssitant
+- esphome https://esphome.io/ (ESP8266 | ESP32 | other => easy yaml config and push to HomeAssistant)
+- portainer https://www.portainer.io/ (Conteiner Management for Docker)
+- Home DNS server? try PiHole https://pi-hole.net/
+- OpenWrt as router OS https://openwrt.org/
+
+### Other (tools)
 - https://www.base64decode.org/
 - https://www.urlencoder.org/
 
