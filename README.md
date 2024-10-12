@@ -206,7 +206,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - portainer https://www.portainer.io/ (Conteiner Management for Docker)
 - Home DNS server? try PiHole https://pi-hole.net/
 - OpenWrt as router OS https://openwrt.org/
-
+- smart switches and other devices https://www.shelly.com/
+- HAVC: Salus Controls & Panasonic AC (with https://github.com/sockless-coding/panasonic_cc integration)
+  
 ### Other (tools)
 - https://www.base64decode.org/
 - https://www.urlencoder.org/
