@@ -182,6 +182,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - SMS online service to test OTP: https://anonymsms.com/
 - Temporary Email Service (you can define your email address): https://www.minuteinbox.com/
 - [Postman Collection](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
+- A verification tool to replace CAPTCHAs: https://www.cloudflare.com/products/turnstile/
   
 #### Debbug JWT tokens (Open ID Connect flows)
 - https://oidcdebugger.com/debug
@@ -201,7 +202,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Visual Studio IDE built-in proxy
 
 ### Smarthome (and not only)
-- HomeAssitant
+- HomeAssitant: https://www.home-assistant.io/
 - esphome https://esphome.io/ (ESP8266 | ESP32 | other => easy yaml config and push to HomeAssistant)
 - portainer https://www.portainer.io/ (Conteiner Management for Docker)
 - Home DNS server? try PiHole https://pi-hole.net/
