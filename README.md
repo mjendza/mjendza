@@ -157,7 +157,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://medium.com/into-alm/configuration-as-code-moving-away-from-library-groups-in-azure-devops-e9ff683d150d
 - https://azure.github.io/Azure-Verified-Modules/
 - https://github.com/Azure/bicep-registry-modules
-  
+- https://github.com/arindam0310018/10-Oct-2023-DevOps__Workload-Identity-Federation-with-Service-Principal-Using-Terraform
+
+    
 #### Entra ID as a Code
 - https://registry.terraform.io/providers/hashicorp/azuread/latest
 - https://terraprovider.com/
