@@ -3,7 +3,7 @@
 I like MTB and spend time in the sauna, but this is GitHub ;)
 
 # 🔭 I’m currently working on:
-
+- My Bicep Azure Infrastructure (FrondDoor with Blue-Green Deployment) https://github.com/mjendza/azure-bicep-sandbox
 - 📐 [Entra Verified ID Workshop](https://github.com/mjendza/workshop-verified-id)
 
 ## Factorlabs Verified Playground - :rocket: https://vc.factorlabs.pl 
