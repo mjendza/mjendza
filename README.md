@@ -45,6 +45,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Architecture Styles Worksheet: https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf
   
 ## 2024
+- https://jacquiread.com/posts/software-design/
 - AWS Cognito Sample https://medium.com/@samudurand/protecting-lambda-urls-with-cognito-iam-lambda-edge-and-cdk-4ac79f9e779c
 - FGA solution https://docs.permit.io/modeling/mesa-verde/ & DEMO https://github.com/permitio/mesa-verde-banking-demo
 - Functional Programming on .NET - The Best of Both Worlds - Isaac Abraham - NDC Oslo 2024: https://www.youtube.com/watch?v=V9GYPOsPj4M
