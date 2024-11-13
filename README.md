@@ -45,18 +45,20 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Architecture Styles Worksheet: https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf
   
 ## 2024
+- :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
+- :lock: https://learn.microsoft.com/en-us/entra/global-secure-access/how-to-configure-kerberos-sso
 - https://jacquiread.com/posts/software-design/
-- AWS Cognito Sample https://medium.com/@samudurand/protecting-lambda-urls-with-cognito-iam-lambda-edge-and-cdk-4ac79f9e779c
-- FGA solution https://docs.permit.io/modeling/mesa-verde/ & DEMO https://github.com/permitio/mesa-verde-banking-demo
+- :lock: AWS Cognito Sample https://medium.com/@samudurand/protecting-lambda-urls-with-cognito-iam-lambda-edge-and-cdk-4ac79f9e779c
+- :lock: FGA solution https://docs.permit.io/modeling/mesa-verde/ & DEMO https://github.com/permitio/mesa-verde-banking-demo
 - Functional Programming on .NET - The Best of Both Worlds - Isaac Abraham - NDC Oslo 2024: https://www.youtube.com/watch?v=V9GYPOsPj4M
 - Let's build the worst Event Sourcing system! - Oskar Dudycz - NDC London 2024: https://www.youtube.com/watch?v=20zvAJAhqS0
-- Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
+- :hammer: :lock: Secure your website with the right security headers [Mozilla](https://observatory.mozilla.org/) and [SecurityHeaders](https://securityheaders.com/)
 - [VC for Europeans](https://github.com/goeIDAS/testbed)
 - [eIDAS test site](https://test.eid.as/)
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
-- [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
+- :lock: [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
-- [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- :hammer: [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 ### ENTRA ID - from [John Savill](https://www.youtube.com/@NTFAQGuy)
 - [**Workload Identity Protection**](https://youtu.be/TASsrY_ilWc)
 - [**Governance**](https://youtu.be/yqiZhVdo6WE)
@@ -72,7 +74,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 ## 2022
 - 📖[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
+- :hammer: [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
   
 ## 2021
