@@ -198,6 +198,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - VS Code + B2C extension + APP insights debugger
 
 ### Software Development
+- temp mail(trashmail) as a service https://github.com/HaschekSolutions/opentrashmail
 - Mock Service (when you need to check the request payload ;) ) https://beeceptor.com/
 - Security Headers check https://securityheaders.com/
 
