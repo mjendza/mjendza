@@ -152,6 +152,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://medium.com/@omaxel/allow-access-to-azure-app-service-only-from-azure-front-door-bdfa16bc675d
 - https://cloudtips.nl/securing-azure-web-apps-and-function-apps-with-azure-front-door-e4a5e4071290
 ##### Landing Zone
+- https://www.youtube.com/watch?v=IyQM_wG_X_Q & https://github.com/Azure/terraform-azurerm-caf-enterprise-scale
 - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
 - https://github.com/Azure/ALZ-Bicep/wiki/Accelerator
 - https://github.com/Azure/terraform-azurerm-lz-vending
