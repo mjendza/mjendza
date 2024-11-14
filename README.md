@@ -163,12 +163,12 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://azure.github.io/Azure-Verified-Modules/
 - https://github.com/Azure/bicep-registry-modules
 - https://github.com/arindam0310018/10-Oct-2023-DevOps__Workload-Identity-Federation-with-Service-Principal-Using-Terraform
-
+#### IaC
+- https://spacelift.io/ (Terraform&OpenTofu)
     
 #### Entra ID as a Code
 - https://registry.terraform.io/providers/hashicorp/azuread/latest
 - https://terraprovider.com/
-
     
 #### 👯👯 blogs and people 👯👯
 - https://damienbod.com/
@@ -202,7 +202,6 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - temp mail(trashmail) as a service https://github.com/HaschekSolutions/opentrashmail
 - Mock Service (when you need to check the request payload ;) ) https://beeceptor.com/
 - Security Headers check https://securityheaders.com/
-
    
 #### Tunnel/proxy to the local environment
 - ngrok.com - need to pay 10$ for features
