@@ -34,6 +34,15 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
 - React native wallet - https://github.com/openwallet-foundation/bifold-wallet
   
+:bomb:
+  
+- [VC for Europeans](https://github.com/goeIDAS/testbed)
+- [eIDAS test site](https://test.eid.as/)
+- [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
+- https://github.com/decentralized-identity/didcomm-messaging
+- https://demo.didcomm.org/ :arrow_up_small:
+
+    
 ## Enterprise
 ### Cloud Architecture Materials
 - https://github.com/Azure/Enterprise-Scale
