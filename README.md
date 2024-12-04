@@ -103,7 +103,11 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://auth0.com/docs/authorization
 - [awesome-iam](https://github.com/kdeldycke/awesome-iam)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
-
+  
+### Open Source
+- https://github.com/discord/access
+- https://github.com/jhaals/yopass
+  
 ### Entra ID
 - [Journey to Azure AD PRT- Primary Refresh Token](https://aadinternals.com/post/prt/)
 - Newsletter: https://entra.news 
