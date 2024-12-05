@@ -179,6 +179,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://github.com/arindam0310018/10-Oct-2023-DevOps__Workload-Identity-Federation-with-Service-Principal-Using-Terraform
 #### IaC
 - https://spacelift.io/ (Terraform&OpenTofu)
+= https://registry.terraform.io/modules/Azure-Terraformer/atat/github/latest
     
 #### Entra ID as a Code
 - https://registry.terraform.io/providers/hashicorp/azuread/latest
