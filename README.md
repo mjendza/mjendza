@@ -41,7 +41,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
 - https://github.com/decentralized-identity/didcomm-messaging
 - https://demo.didcomm.org/ :arrow_up_small:
-
+- https://github.com/e-id-admin/eidch-android-wallet
     
 ## Enterprise
 ### Cloud Architecture Materials
