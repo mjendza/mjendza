@@ -53,6 +53,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ## Software Architecture
 - Architecture Styles Worksheet: https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf
   
+## AI in 2024
+- https://bolt.new (React UI by AI) 
+- https://aider.chat/ 
+  
 ## 2024
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
 - :lock: https://learn.microsoft.com/en-us/entra/global-secure-access/how-to-configure-kerberos-sso
@@ -68,6 +72,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - :lock: [Demystifying cookies and tokens](https://tommihovi.com/2024/05/demystifying-cookies-and-tokens/)
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
 - :hammer: [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+  
 ### ENTRA ID - from [John Savill](https://www.youtube.com/@NTFAQGuy)
 - [**Workload Identity Protection**](https://youtu.be/TASsrY_ilWc)
 - [**Governance**](https://youtu.be/yqiZhVdo6WE)
