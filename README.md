@@ -133,6 +133,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - Asp.Net Web App - Confidential Client: https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
 - JavaScript Public Client: https://github.com/Azure-Samples/ms-identity-docs-code-javascript
+- For External ID sample: https://github.com/Azure-Samples/ms-identity-ciam-javascript-tutorial
 
 ### IAM & CIAM Solutions
 #### CIAM
