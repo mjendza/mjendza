@@ -150,6 +150,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://chrome.google.com/webstore/detail/saml-devtools-extension/jndllhgbinhiiddokbeoeepbppdnhhio
 
 ### MSAL | OpenID Connect | Azure ==> Authentication & Authorization 
+- Summary about MS samples & platforms https://learn.microsoft.com/en-us/entra/identity-platform/sample-v2-code
 - [MS Samples](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2)
 - [MSAL - Retry policies](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/retry-policy)
 - [MSAL Logger](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/msal-logging#iidentitylogger-implementation)
