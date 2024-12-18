@@ -7,7 +7,8 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - 📐 [Entra Verified ID Workshop](https://github.com/mjendza/workshop-verified-id)
 
 ## Factorlabs Verified Playground - :rocket: https://demo.factorlabs.pl 
-![image](https://github.com/mjendza/mjendza/assets/366901/a9a0a4b2-76ba-44d1-a587-ef481b252e77)
+![image](https://github.com/user-attachments/assets/0851c161-7db3-4e05-9691-d1d031da162a)
+
 
 ### Details
 - Verified Employee Flow
