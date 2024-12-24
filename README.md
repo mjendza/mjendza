@@ -53,7 +53,10 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 ## Software Architecture
 - Architecture Styles Worksheet: https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf
-- https://github.com/evolutionary-architecture/evolutionary-architecture-by-example & video section https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-  
+### evolutionary-architecture
+- by example [Github](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) and [Video](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-)
+
+    
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
 - https://aider.chat/ 
