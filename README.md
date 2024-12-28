@@ -188,6 +188,11 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 - https://azure.github.io/Azure-Verified-Modules/
 - https://github.com/Azure/bicep-registry-modules
 - https://github.com/arindam0310018/10-Oct-2023-DevOps__Workload-Identity-Federation-with-Service-Principal-Using-Terraform
+
+  
+### Documentation & Internal Development tools
+- https://github.com/backstage/backstage
+  
 #### IaC
 - https://spacelift.io/ (Terraform&OpenTofu)
 = https://registry.terraform.io/modules/Azure-Terraformer/atat/github/latest
