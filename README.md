@@ -59,7 +59,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
     
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
-- https://aider.chat/ 
+- https://aider.chat/
+- testing: https://app.co.dev/
+- testing: https://v0.dev/
   
 ## 2024
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
