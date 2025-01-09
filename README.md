@@ -63,7 +63,9 @@ Niels Bohr
 ## Radar
 - https://www.stigg.io/
 - https://supademo.com
+- https://backstage.io (https://github.com/shano/awesome-backstage)
 
+  
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
 - https://aider.chat/
