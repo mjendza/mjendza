@@ -58,6 +58,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 
 ## Radar
 - https://www.stigg.io/
+- https://supademo.com
 
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
