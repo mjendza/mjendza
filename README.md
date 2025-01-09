@@ -56,7 +56,9 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 ### evolutionary-architecture
 - by example [Github](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) and [Video](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-)
 
-    
+## Radar
+- https://www.stigg.io/
+
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
 - https://aider.chat/
