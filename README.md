@@ -2,6 +2,10 @@
 
 I like MTB and spend time in the sauna, but this is GitHub ;)
 
+# Motto
+`Prediction is very difficult, especially about the future.`
+Niels Bohr
+
 # 🔭 I’m currently working on:
 - My Bicep Azure Infrastructure (FrondDoor with Blue-Green Deployment) https://github.com/mjendza/azure-bicep-sandbox
 - 📐 [Entra Verified ID Workshop](https://github.com/mjendza/workshop-verified-id)
