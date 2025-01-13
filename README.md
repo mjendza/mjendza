@@ -71,6 +71,10 @@ Niels Bohr
 - https://aider.chat/
 - testing: https://app.co.dev/
 - testing: https://v0.dev/
+
+### LLM & chat & solutions
+- https://techcommunity.microsoft.com/blog/azure-ai-services-blog/graphrag-end-to-end-poc/4361080
+- 
   
 ## 2024
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
