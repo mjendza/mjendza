@@ -74,7 +74,7 @@ Niels Bohr
 
 ### LLM & chat & solutions
 - https://techcommunity.microsoft.com/blog/azure-ai-services-blog/graphrag-end-to-end-poc/4361080
-- 
+- https://learn.microsoft.com/azure/cosmos-db/gen-ai/quickstart-rag-chatbot
   
 ## 2024
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
