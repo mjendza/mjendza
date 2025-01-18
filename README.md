@@ -141,6 +141,8 @@ Niels Bohr
 - big picture diagram https://github.com/msandbu/azuread
 - Entra ID as a code: https://www.terraprovider.com/
 - https://identity-man.eu/2020/11/23/an-introduction-to-azure-ad-identity-governance/
+#### Governance
+- https://www.christianfrohn.dk/2025/01/15/monitoring-access-package-delivery-status-in-entra-id-governance/ 
   
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
