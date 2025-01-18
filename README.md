@@ -32,6 +32,7 @@ Niels Bohr
 # Social Media
 - 👱[LinkedIn](https://www.linkedin.com/in/mjendza/) 💬
 - 📖[Blog](https://mjendza.net)
+- 👱[Bluesky](https://bsky.app/profile/mjendza.bsky.social)
 
 # Links/resources that changed my life:
 ## Verifiable Credentials 
@@ -160,11 +161,15 @@ Niels Bohr
 - https://auth0.com/
 - https://stytch.com/
 
+### Azure 
+- https://github.com/mivano/azure-cost-cli
 
 ### Tools
 - Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
 - faking data and getting notification someone is accessing (credit card, AWS cred) https://canarytokens.org/generate
-
+#### Fun
+- https://github.com/ozdemirburak/morse-code-translator
+  
 #### Testing
 - https://oidcdebugger.com/debug
 - https://chrome.google.com/webstore/detail/saml-devtools-extension/jndllhgbinhiiddokbeoeepbppdnhhio
