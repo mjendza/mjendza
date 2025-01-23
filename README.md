@@ -39,9 +39,19 @@ Niels Bohr
 - TypeScript - https://github.com/openwallet-foundation/credo-ts
 - .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
 - React native wallet - https://github.com/openwallet-foundation/bifold-wallet
+
+## Wallets on the market
+- https://play.google.com/store/apps/details?id=id.paradym.wallet
+- MS Authenticator App
+
+## Saas Services
+- https://paradym.id/
+- https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id
   
-:bomb:
-  
+### Saas Playground
+- https://vcplayground.org/
+
+## Links  
 - [VC for Europeans](https://github.com/goeIDAS/testbed)
 - [eIDAS test site](https://test.eid.as/)
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
@@ -50,7 +60,7 @@ Niels Bohr
 - https://github.com/e-id-admin/eidch-android-wallet
 
 ### Documentation & Blog Posts
--[Full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
+- [Full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
     
 ## Enterprise
 ### Cloud Architecture Materials
