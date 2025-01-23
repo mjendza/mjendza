@@ -48,6 +48,9 @@ Niels Bohr
 - https://github.com/decentralized-identity/didcomm-messaging
 - https://demo.didcomm.org/ :arrow_up_small:
 - https://github.com/e-id-admin/eidch-android-wallet
+
+### Documentation & Blog Posts
+-[Full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
     
 ## Enterprise
 ### Cloud Architecture Materials
