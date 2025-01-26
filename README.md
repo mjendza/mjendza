@@ -60,7 +60,7 @@ Niels Bohr
 - https://github.com/e-id-admin/eidch-android-wallet
 
 ### Documentation & Blog Posts
-- [Full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
+- [VC Deep Dive: full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
     
 ## Enterprise
 ### Cloud Architecture Materials
