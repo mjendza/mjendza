@@ -178,7 +178,7 @@ Niels Bohr
 
 ### Azure 
 - https://github.com/mivano/azure-cost-cli
-
+  
 ### Tools
 - Kleopatra - manage Yubikey certificates etc https://apps.kde.org/kleopatra/
 - faking data and getting notification someone is accessing (credit card, AWS cred) https://canarytokens.org/generate
@@ -228,10 +228,20 @@ Niels Bohr
   
 ### Documentation & Internal Development tools
 - https://github.com/backstage/backstage
+- https://www.websequencediagrams.com/
+- https://plantuml.com/
   
+## network/web
+- https://securityheaders.com/
+- https://observatory.mozilla.org/analyze/mjendza.net
+- https://blog.icewolf.ch/archive/2023/05/28/http-security-headers/
+
+- https://report-uri.com/
+- https://redbot.org/
+     
 #### IaC
 - https://spacelift.io/ (Terraform&OpenTofu)
-= https://registry.terraform.io/modules/Azure-Terraformer/atat/github/latest
+- https://registry.terraform.io/modules/Azure-Terraformer/atat/github/latest
     
 #### Entra ID as a Code
 - https://registry.terraform.io/providers/hashicorp/azuread/latest
