@@ -40,18 +40,19 @@ Niels Bohr
 - .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
 - React native wallet - https://github.com/openwallet-foundation/bifold-wallet
 
-## Wallets on the market
+### Wallets on the market
 - https://play.google.com/store/apps/details?id=id.paradym.wallet
 - MS Authenticator App
 
-## Saas Services
+### Saas Services
 - https://paradym.id/
 - https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id
   
 ### Saas Playground
 - https://vcplayground.org/
-
-## Links  
+- https://funke.animo.id/
+  
+### Links  
 - [VC for Europeans](https://github.com/goeIDAS/testbed)
 - [eIDAS test site](https://test.eid.as/)
 - [Decentralized Identifiers (DIDs) as an Identifier Metasystem](https://blog.identity.foundation/decentralized-identifiers-dids-as-an-identifier-metasystem/)
@@ -78,7 +79,6 @@ Niels Bohr
 - https://www.stigg.io/
 - https://supademo.com
 - https://backstage.io (https://github.com/shano/awesome-backstage)
-
   
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
