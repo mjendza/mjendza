@@ -44,13 +44,17 @@ Niels Bohr
 - https://play.google.com/store/apps/details?id=id.paradym.wallet
 - MS Authenticator App
 
-### Saas Services
-- https://paradym.id/
-- https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id
-  
-### Saas Playground
-- https://vcplayground.org/
-- https://funke.animo.id/
+### Table with Products & Libraries
+| Name             | Details & Supported format  | Link           |
+|------------------|----|-------------|
+| Paradym | Dedicated Wallet (format:sd+vc-json)* | https://paradym.id/ |
+| Entra Verified Id         | Authenticatior App + Wallet SDK from MS  | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id         |
+| Demo: vcplayground         | jwt-vc-json  | https://vcplayground.org/           |
+| Demo: https://funke.animo.id/ | EUDI | https://funke.animo.id/ |
+| WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
+| credo-ts | Full VC Backend (format:sd+vc-json) with REST extension https://credo.js.org/guides/extensions/rest and hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
+
+*not confirmed via official pages and documentation
   
 ### Links  
 - [VC for Europeans](https://github.com/goeIDAS/testbed)
