@@ -146,7 +146,7 @@ Niels Bohr
 - https://auth0.com/docs/authorization
 - [awesome-iam](https://github.com/kdeldycke/awesome-iam)
 - OAuth – the good Parts - Dominick Baier - NDC Oslo 2021 https://www.youtube.com/watch?v=y2Psj8ACZyw
--Test FIDO2/Passkeys https://www.token2.swiss/tools/fido2-demo
+- Test FIDO2/Passkeys https://www.token2.swiss/tools/fido2-demo
 
 ### Open Source
 - https://github.com/discord/access
