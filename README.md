@@ -83,7 +83,8 @@ Niels Bohr
 - https://www.stigg.io/
 - https://supademo.com
 - https://backstage.io (https://github.com/shano/awesome-backstage)
-  
+- https://github.com/HaschekSolutions/opentrashmail
+   
 ## AI in 2024
 - https://bolt.new (React UI by AI) 
 - https://aider.chat/
@@ -206,7 +207,7 @@ Niels Bohr
 - [Authentication with multiple identity providers](https://damienbod.com/2023/11/13/authentication-with-multiple-identity-providers-in-asp-net-core/)
   
 ### CIAM
-- [Microsoft Woodgrove Groceries -> Auzre AD B2C MS Demo](https://woodgrovegroceries.net/)
+- [Microsoft Woodgrove Groceries -> Azure AD B2C MS Demo](https://woodgrovegroceries.net/)
 - [Microsoft Woodgrove Groceries -> Entra External ID for Customers MS Demo](https://woodgrovedemo.com/)
 
 ### Azure & Microsoft 365
@@ -270,7 +271,7 @@ Niels Bohr
 - https://www.cloud-architekt.net/
 - https://cloudbrothers.info/
   
-## 🤔🤔 Workstation & Tools & IDE's 🤔🤔
+## 🤔 Workstation & Tools & IDE's 🤔
 ### Identity 
 - SMS online service to test OTP: https://anonymsms.com/
 - Temporary Email Service (you can define your email address): https://www.minuteinbox.com/
