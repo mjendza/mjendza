@@ -85,7 +85,8 @@ Niels Bohr
 - https://backstage.io (https://github.com/shano/awesome-backstage)
 - https://github.com/HaschekSolutions/opentrashmail
    
-## AI in 2024
+## AI playground
+- https://block.github.io/goose/
 - https://bolt.new (React UI by AI) 
 - https://aider.chat/
 - testing: https://app.co.dev/
