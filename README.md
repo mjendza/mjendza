@@ -66,7 +66,8 @@ Niels Bohr
 
 ### Documentation & Blog Posts
 - [VC Deep Dive: full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
-    
+- [How VC Issuance works](https://www.authlete.com/developers/oid4vci/)
+  
 ## Enterprise
 ### Cloud Architecture Materials
 - https://github.com/Azure/Enterprise-Scale
@@ -91,7 +92,8 @@ Niels Bohr
 - https://aider.chat/
 - testing: https://app.co.dev/
 - testing: https://v0.dev/
-
+- IDE for with AI development https://github.com/cline/cline
+  
 ### LLM & chat & solutions
 - https://techcommunity.microsoft.com/blog/azure-ai-services-blog/graphrag-end-to-end-poc/4361080
 - https://learn.microsoft.com/azure/cosmos-db/gen-ai/quickstart-rag-chatbot
