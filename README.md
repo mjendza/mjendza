@@ -88,10 +88,12 @@ Niels Bohr
    
 ## AI playground
 - https://block.github.io/goose/
-- https://bolt.new (React UI by AI) 
-- https://aider.chat/
-- testing: https://app.co.dev/
-- testing: https://v0.dev/
+- 👑 https://bolt.new (React UI by AI) 
+- 👑 testing: https://aider.chat/
+- https://app.co.dev/
+- https://v0.dev/
+- 🤖 testing: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
+- 🤖 testing: GitHub Copilot Chat **Agent** Mode via VS Code Insiders ([link](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/))
 - IDE for with AI development https://github.com/cline/cline
   
 ### LLM & chat & solutions
