@@ -181,7 +181,9 @@ Niels Bohr
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
 - JavaScript Public Client: https://github.com/Azure-Samples/ms-identity-docs-code-javascript
 - For External ID sample: https://github.com/Azure-Samples/ms-identity-ciam-javascript-tutorial
-
+##### MSAL
+- Refresh Token: https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/5137
+  
 ### IAM & CIAM Solutions
 #### CIAM
 - https://auth0.com/
