@@ -10,7 +10,7 @@ Niels Bohr
 - My Bicep Azure Infrastructure (FrondDoor with Blue-Green Deployment) https://github.com/mjendza/azure-bicep-sandbox
 - 📐 [Entra Verified ID Workshop](https://github.com/mjendza/workshop-verified-id)
 
-## Factorlabs Verified Playground - :rocket: https://demo.factorlabs.pl 
+## Factorlabs Verified ID Playground - :rocket: https://demo.factorlabs.pl 
 ![image](https://github.com/user-attachments/assets/0851c161-7db3-4e05-9691-d1d031da162a)
 
 
