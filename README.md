@@ -249,6 +249,8 @@ Niels Bohr
 - https://observatory.mozilla.org/analyze/mjendza.net
 - https://blog.icewolf.ch/archive/2023/05/28/http-security-headers/
 
+- speed test with details: https://speed.cloudflare.com/
+
 - https://report-uri.com/
 - https://redbot.org/
      
