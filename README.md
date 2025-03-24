@@ -270,7 +270,8 @@ Niels Bohr
 - https://event-driven.io/ and the tag Architecture: https://event-driven.io/en/category/architecture/
 - https://blog.codingmilitia.com/
 - https://architectelevator.com/
-  
+- https://ericonidentity.com/
+    
 ##### 🔭 Feeds 🔭
 - https://entra.news
 - https://newsletter.identosphere.net/
