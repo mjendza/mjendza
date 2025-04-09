@@ -171,6 +171,7 @@ Niels Bohr
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
 - https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
+- https://thomasvanlaere.com/posts/2024/05/spiffe-and-entra-workload-identity-federation
 
 #### Security & Monitoring
 - https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
