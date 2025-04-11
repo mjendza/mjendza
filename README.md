@@ -282,6 +282,7 @@ Niels Bohr
 ### Identity 
 - SMS online service to test OTP: https://anonymsms.com/
 - Temporary Email Service (you can define your email address): https://www.minuteinbox.com/
+- Temporary Email Service with API (not tested) https://mailsac.com/
 - [Postman Collection](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
 - A verification tool to replace CAPTCHAs: https://www.cloudflare.com/products/turnstile/
   
