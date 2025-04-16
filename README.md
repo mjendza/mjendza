@@ -256,7 +256,7 @@ Niels Bohr
 - https://registry.terraform.io/modules/Azure-Terraformer/atat/github/latest
     
 ### Entra ID as a Code
-- https://registry.terraform.io/providers/hashicorp/azuread/latest
+- https://registry.terraform.io/providers/hashicorp/azuread/latest & https://github.com/hashicorp/terraform-provider-azuread
 - https://terraprovider.com/
     
 ### 👯👯 blogs and people 👯👯
