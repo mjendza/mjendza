@@ -219,10 +219,12 @@ Niels Bohr
 - https://azurecharts.com/
 #### Azure Policies
 - https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition and connected repo: https://github.com/andrewmatveychuk/azure.policy
-- and from the previews link: https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition
+- and from the previous link: https://blog.tyang.org/2021/12/06/monitoring-azure-policy-compliance-states-2021-edition
 #### Security
 - https://medium.com/@omaxel/allow-access-to-azure-app-service-only-from-azure-front-door-bdfa16bc675d
 - https://cloudtips.nl/securing-azure-web-apps-and-function-apps-with-azure-front-door-e4a5e4071290
+- https://jeffreyappel.nl/pivot-via-oauth-applications-across-tenants-and-what-to-for-protection-with-microsoft-technology-midnight-blizzard/
+  
 ##### Landing Zone
 - https://www.youtube.com/watch?v=IyQM_wG_X_Q & https://github.com/Azure/terraform-azurerm-caf-enterprise-scale
 - https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/
