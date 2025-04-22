@@ -150,6 +150,8 @@ Niels Bohr
 ### Tools
 - Kleopatra - manage Yubikey certificates, etc https://apps.kde.org/kleopatra/
 - faking data and getting notification someone is accessing (credit card, AWS credentials) https://canarytokens.org/generate
+- generate tokens: https://token.dev/
+- review & analyze tokens: https://jwt.ms & https://jwt.io
 #### Fun
 - https://github.com/ozdemirburak/morse-code-translator
   
