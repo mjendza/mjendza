@@ -147,7 +147,8 @@ Niels Bohr
 #### CIAM
 - https://auth0.com/
 - https://stytch.com/
-
+- https://www.descope.com/
+  
 ### Azure 
 - https://github.com/mivano/azure-cost-cli
   
