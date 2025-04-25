@@ -263,6 +263,12 @@ Niels Bohr
 - Mock Service (when you need to check the request payload ;) ) https://beeceptor.com/
 - Security Headers check https://securityheaders.com/
 - https://backstage.io/
+- Find free replacement: https://openalternative.co
+
+#### Workflow management
+- https://n8n.io
+- https://kestra.io/
+- https://airflow.apache.org/
      
 #### Tunnel/proxy to the local environment
 - [www.cloudflare.com Tunnel](https://www.cloudflare.com/products/tunnel/)
