@@ -148,7 +148,12 @@ Niels Bohr
 - https://auth0.com/
 - https://stytch.com/
 - https://www.descope.com/
-  
+- https://clerk.com
+
+##### Self-Hosted
+- https://goauthentik.io/
+- https://www.keycloak.org/
+    
 ### Azure 
 - https://github.com/mivano/azure-cost-cli
   
