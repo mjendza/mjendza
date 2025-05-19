@@ -71,7 +71,8 @@ Niels Bohr
 - https://www.stigg.io/
 - https://supademo.com
 - https://backstage.io (https://github.com/shano/awesome-backstage)
-- https://github.com/HaschekSolutions/opentrashmail
+- https://airflow.apache.org/ & https://www.astronomer.io/
+
    
 ## AI playground
 - https://block.github.io/goose/
