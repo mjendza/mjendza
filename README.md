@@ -36,7 +36,13 @@ Niels Bohr
 - https://github.com/decentralized-identity/didcomm-messaging
 - https://demo.didcomm.org/ :arrow_up_small:
 - https://github.com/e-id-admin/eidch-android-wallet
-
+- 
+#### Android support
+- https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
+- https://developer.android.com/identity/digital-credentials/credential-verifier
+#### iOS
+- https://developer.apple.com/documentation/BundleResources/Entitlements/com.apple.developer.identity-document-services.document-provider.mobile-document-types
+  
 ### Documentation & Blog Posts
 - [VC Deep Dive: full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
 - [How VC Issuance works](https://www.authlete.com/developers/oid4vci/)
