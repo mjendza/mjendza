@@ -25,6 +25,7 @@ Niels Bohr
 | Demo: https://funke.animo.id/ | EUDI | https://funke.animo.id/ |
 | WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
 | credo-ts | Full VC Backend (format:sd+vc-json) with REST extension https://credo.js.org/guides/extensions/rest and hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
+| walt.id | Backend with wallet | https://docs.walt.id/community-stack/home
 
 *not confirmed via official pages and documentation
   
