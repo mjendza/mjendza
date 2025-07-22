@@ -129,6 +129,7 @@ Niels Bohr
 - [**PIM**](https://youtu.be/gccgIkR8_a0)
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
 - :lock: https://learn.microsoft.com/en-us/entra/global-secure-access/how-to-configure-kerberos-sso
+- https://heusser.pro/p/understanding-entra-id-app-registrations-enterprise-applications-and-service-principals-part-2-os8rb48knqez/
 #### Governance
 - https://www.christianfrohn.dk/2025/01/15/monitoring-access-package-delivery-status-in-entra-id-governance/ 
   
