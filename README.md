@@ -94,7 +94,9 @@ Niels Bohr
 ### LLM & chat & solutions
 - https://techcommunity.microsoft.com/blog/azure-ai-services-blog/graphrag-end-to-end-poc/4361080
 - https://learn.microsoft.com/azure/cosmos-db/gen-ai/quickstart-rag-chatbot
-  
+#### MCP
+- Microsoft Learn MCP Server https://github.com/MicrosoftDocs/mcp
+- Lokka - MS Entra Graph API MCP: https://lokka.dev/docs/install
 
 
 ## IAM
