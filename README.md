@@ -111,7 +111,9 @@ Niels Bohr
 - :lock: AWS Cognito Sample https://medium.com/@samudurand/protecting-lambda-urls-with-cognito-iam-lambda-edge-and-cdk-4ac79f9e779c
 - :lock: FGA solution https://docs.permit.io/modeling/mesa-verde/ & DEMO https://github.com/permitio/mesa-verde-banking-demo
 - Cedar [video](https://www.youtube.com/watch?v=Oh0EaisUtYI&t=1829s) & into token [Cedar policy with an access token](https://www.linkedin.com/feed/update/urn:li:activity:7348099179870568448/)
-- https://www.linkedin.com/pulse/implementing-mcp-dynamic-client-registration-spiffe-keycloak-posta-ccryf   
+- https://www.linkedin.com/pulse/implementing-mcp-dynamic-client-registration-spiffe-keycloak-posta-ccryf
+- Annotated Version of NIST Special Publication (SP) 800-63-4,Digital Identity Guidelines: https://www.tcannex.com/p/annotated-nist-sp-800-63-4
+- CIAM MS Overview: https://www.microsoft.com/en-us/security/business/security-101/what-is-ciam
 ### Open Source
 - https://github.com/discord/access
 - https://github.com/jhaals/yopass
