@@ -78,7 +78,7 @@ Niels Bohr
 - https://www.stigg.io/
 - https://supademo.com
 - https://backstage.io (https://github.com/shano/awesome-backstage)
-- https://airflow.apache.org/ & https://www.astronomer.io/
+- n8n instead of https://airflow.apache.org/ & https://www.astronomer.io/
 
    
 ## AI playground
