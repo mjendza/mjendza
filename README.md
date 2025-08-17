@@ -83,7 +83,8 @@ Niels Bohr
    
 ## AI playground
 - https://block.github.io/goose/
-- 👑 https://bolt.new (React UI by AI) 
+- 👑 https://bolt.new (React UI by AI)
+- 👑👑 https://www.anthropic.com/claude-code
 - 👑 testing: https://aider.chat/
 - https://app.co.dev/
 - https://v0.dev/
@@ -147,11 +148,16 @@ Niels Bohr
 - https://github.com/reprise99/Sentinel-Queries
     
 #### Development & Samples
-- Asp.Net Web App - Confidential Client: https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
+- ASP.NET Web App - Confidential Client: https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
 - JavaScript Public Client: https://github.com/Azure-Samples/ms-identity-docs-code-javascript
 - For External ID sample: https://github.com/Azure-Samples/ms-identity-ciam-javascript-tutorial
 - Graph Explorer (with tenant-id param): https://developer.microsoft.com/en-us/graph/graph-explorer?tenant={{tenant-id-here}}
+
+##### Azure AD B2C
+- https://gist.github.com/rbrayb/847be01d7f2c532d66cf07ad84d6466d
+- OpenID Connect details: https://learn.microsoft.com/en-us/azure/active-directory-b2c/openid-connect
+  
 ##### MSAL
 - Refresh Token: https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/5137
 
