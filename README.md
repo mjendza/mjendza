@@ -136,6 +136,7 @@ Niels Bohr
 - https://heusser.pro/p/understanding-entra-id-app-registrations-enterprise-applications-and-service-principals-part-2-os8rb48knqez/
 #### Governance
 - https://www.christianfrohn.dk/2025/01/15/monitoring-access-package-delivery-status-in-entra-id-governance/ 
+- https://janbakker.tech/dynamic-approval-in-entra-id-access-packages-using-custom-extensions/
   
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
