@@ -67,6 +67,7 @@ Niels Bohr
 - Let's build the worst Event Sourcing system! - Oskar Dudycz - NDC London 2024: https://www.youtube.com/watch?v=20zvAJAhqS0
 ### evolutionary-architecture
 - by example [Github](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) and [Video](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-)
+- Distributed system real life example https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
 - 📖[The Software Architect Elevator](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
 - 📖[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - :hammer: [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
