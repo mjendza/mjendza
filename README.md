@@ -36,8 +36,8 @@ Niels Bohr
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
 - https://github.com/decentralized-identity/didcomm-messaging
 - https://demo.didcomm.org/ :arrow_up_small:
-- https://github.com/e-id-admin/eidch-android-wallet
-- 
+- CH https://github.com/e-id-admin/eidch-android-wallet
+- EU https://github.com/orgs/eu-digital-identity-wallet/repositories
 #### Android support
 - https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
 - https://developer.android.com/identity/digital-credentials/credential-verifier
