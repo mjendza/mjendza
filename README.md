@@ -41,6 +41,8 @@ Niels Bohr
 #### Android support
 - https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
 - https://developer.android.com/identity/digital-credentials/credential-verifier
+- https://developer.android.com/identity/digital-credentials/phone-number-verification
+
 #### iOS
 - https://developer.apple.com/documentation/BundleResources/Entitlements/com.apple.developer.identity-document-services.document-provider.mobile-document-types
   
