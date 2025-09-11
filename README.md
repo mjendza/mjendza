@@ -186,6 +186,8 @@ Niels Bohr
 - faking data and getting notification someone is accessing (credit card, AWS credentials) https://canarytokens.org/generate
 - generate tokens: https://token.dev/
 - review & analyze tokens: https://jwt.ms & https://jwt.io
+- https://github.com/codesenberg/bombardier
+  
 #### Fun
 - https://github.com/ozdemirburak/morse-code-translator
   
