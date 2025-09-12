@@ -87,7 +87,7 @@ Niels Bohr
 ## AI playground
 - https://block.github.io/goose/
 - 👑 https://bolt.new (React UI by AI)
-- 👑👑 https://www.anthropic.com/claude-code
+- 👑👑 https://www.anthropic.com/claude-code & https://github.com/ryoppippi/ccusage
 - 👑 testing: https://aider.chat/
 - https://app.co.dev/
 - https://v0.dev/
@@ -102,6 +102,7 @@ Niels Bohr
 - Microsoft Learn MCP Server https://github.com/MicrosoftDocs/mcp
 - Lokka - MS Entra Graph API MCP: https://lokka.dev/docs/install
 - Atlas MCP server that provides access to Microsoft Graph API using Entra ID authentication with On-Behalf-Of (OBO) flow: https://github.com/JasSuri/atlas
+- https://github.com/rinadelph/Agent-MCP
 
 ## IAM
 - [OCTA: OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
