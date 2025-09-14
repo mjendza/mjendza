@@ -124,6 +124,7 @@ Niels Bohr
 - https://github.com/discord/access
 - https://github.com/jhaals/yopass
 - https://github.com/JanssenProject/jans
+- dpop https://auth0.com/blog/protect-your-access-tokens-with-dpop/ 
   
 ### Entra ID
 - [Journey to Azure AD PRT- Primary Refresh Token](https://aadinternals.com/post/prt/)
