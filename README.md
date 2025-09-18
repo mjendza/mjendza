@@ -169,7 +169,11 @@ Niels Bohr
 
 #### Monitoring (and KQL)
 - https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
-  
+
+#### Deep dive
+- Deep Dive into Entra: Exclusive Outage Stories & Architectural Innovations: https://www.youtube.com/watch?v=PtEQYnRu6eo
+- Actor tokens: https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
+
 ### IAM & CIAM Solutions
 #### CIAM
 - https://auth0.com/
