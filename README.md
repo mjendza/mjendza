@@ -172,8 +172,9 @@ Niels Bohr
 
 #### Deep dive
 - Deep Dive into Entra: Exclusive Outage Stories & Architectural Innovations: https://www.youtube.com/watch?v=PtEQYnRu6eo
-- Actor tokens: https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
-
+- Actor tokens security issue: https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
+- ACS: https://learn.microsoft.com/en-us/previous-versions/azure/active-directory/azuread-dev/active-directory-acs-migration
+  
 ### IAM & CIAM Solutions
 #### CIAM
 - https://auth0.com/
