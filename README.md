@@ -152,7 +152,9 @@ Niels Bohr
 #### Security & Monitoring
 - https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 - https://github.com/reprise99/Sentinel-Queries
-    
+#### Windows
+- https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
+
 #### Development & Samples
 - ASP.NET Web App - Confidential Client: https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
 - https://github.com/Azure-Samples/active-directory-dotnetcore-daemon-v2
