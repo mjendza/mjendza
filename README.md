@@ -95,7 +95,9 @@ Niels Bohr
 - 🤖 testing: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
 - 🤖 testing: GitHub Copilot Chat **Agent** Mode via VS Code Insiders ([link](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/))
 - IDE for AI development https://github.com/cline/cline
-  
+### Claude Code
+- https://github.com/brennercruvinel/CCPlugins
+- https://github.com/fcakyon/claude-settings
 ### LLM & chat & solutions
 - https://techcommunity.microsoft.com/blog/azure-ai-services-blog/graphrag-end-to-end-poc/4361080
 - https://learn.microsoft.com/azure/cosmos-db/gen-ai/quickstart-rag-chatbot
