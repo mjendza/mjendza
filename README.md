@@ -122,6 +122,8 @@ Niels Bohr
 - https://www.linkedin.com/pulse/implementing-mcp-dynamic-client-registration-spiffe-keycloak-posta-ccryf
 - Annotated Version of NIST Special Publication (SP) 800-63-4,Digital Identity Guidelines: https://www.tcannex.com/p/annotated-nist-sp-800-63-4
 - CIAM MS Overview: https://www.microsoft.com/en-us/security/business/security-101/what-is-ciam
+- DPoP https://auth0.com/docs/secure/sender-constraining/demonstrating-proof-of-possession-dpop
+- Entra Primary Refresh Token https://learn.microsoft.com/en-us/entra/identity/devices/concept-primary-refresh-token?tabs=windows-prt-issued%2Cwindows-prt-used%2Cwindows-prt-renewal%2Cwindows-prt-protection%2Cwindows-apptokens%2Cwindows-browsercookies%2Cwindows-mfa
 ### Open Source
 - https://github.com/discord/access
 - https://github.com/jhaals/yopass
