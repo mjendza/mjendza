@@ -169,6 +169,10 @@ Niels Bohr
 ##### Azure AD B2C
 - https://gist.github.com/rbrayb/847be01d7f2c532d66cf07ad84d6466d
 - OpenID Connect details: https://learn.microsoft.com/en-us/azure/active-directory-b2c/openid-connect
+
+##### Entra External ID 
+- https://learn.microsoft.com/en-us/entra/external-id/external-identities-overview#comparing-external-id-feature-sets
+- https://learn.microsoft.com/en-us/entra/external-id/customers/concept-supported-features-customers
   
 ##### MSAL
 - Refresh Token: https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/5137
