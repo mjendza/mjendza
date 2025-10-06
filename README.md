@@ -38,7 +38,8 @@ Niels Bohr
 - https://demo.didcomm.org/ :arrow_up_small:
 - CH https://github.com/e-id-admin/eidch-android-wallet
 - EU https://github.com/orgs/eu-digital-identity-wallet/repositories
-- KeyCloack https://keycloak-day.dev/assets/files/Norimatsu_KeycloakDevDay2025_Darmstadt.pdf 
+- KeyCloack https://keycloak-day.dev/assets/files/Norimatsu_KeycloakDevDay2025_Darmstadt.pdf
+- https://www.verifiedorchestration.com/
 #### Android support
 - https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
 - https://developer.android.com/identity/digital-credentials/credential-verifier
