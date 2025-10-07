@@ -157,6 +157,10 @@ Niels Bohr
 #### Security & Monitoring
 - https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 - https://github.com/reprise99/Sentinel-Queries
+
+- https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
+- https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction
+
 #### Windows
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
 
