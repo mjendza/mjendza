@@ -256,9 +256,9 @@ Niels Bohr
 
   
 ### Documentation & Internal Development tools
-- https://github.com/backstage/backstage
+- https://backstage.io & https://github.com/backstage/backstage
 - https://www.websequencediagrams.com/
-- https://plantuml.com/
+- 👑 https://plantuml.com/ & https://github.com/plantuml-stdlib/C4-PlantUML
 
 ## .Net
 - https://github.com/Finbuckle/Finbuckle.MultiTenant
