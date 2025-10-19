@@ -344,7 +344,10 @@ Niels Bohr
 ### Other (tools)
 - https://www.base64decode.org/
 - https://www.urlencoder.org/
-   
+
+## OS
+- https://omarchy.org/
+- 
   
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
