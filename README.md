@@ -149,7 +149,7 @@ Niels Bohr
 #### Governance
 - https://www.christianfrohn.dk/2025/01/15/monitoring-access-package-delivery-status-in-entra-id-governance/ 
 - https://janbakker.tech/dynamic-approval-in-entra-id-access-packages-using-custom-extensions/
-  
+- review permissions https://m365scripts.com/microsoft365/manage-entra-id-delegated-permissions-for-specific-users-using-microsoft-graph/
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
 - https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
