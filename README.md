@@ -347,7 +347,7 @@ Niels Bohr
 
 ## OS
 - https://omarchy.org/
-- 
+- [PoP OS](https://system76.com/pop/)
   
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
