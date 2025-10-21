@@ -163,6 +163,10 @@ Niels Bohr
 - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
 - https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction
 
+#### Tools
+- https://github.com/microsoft/EntraExporter
+- https://github.com/microsoft/Microsoft365DSC
+
 #### Windows
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
 
