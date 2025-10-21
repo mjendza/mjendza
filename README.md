@@ -99,6 +99,8 @@ Niels Bohr
 ### Claude Code
 - https://github.com/brennercruvinel/CCPlugins
 - https://github.com/fcakyon/claude-settings
+### IAM
+- https://blog.christianposta.com/api-keys-are-a-bad-idea-for-enterprise-llm-agent-and-mcp-access/ 
 ### LLM & chat & solutions
 - https://techcommunity.microsoft.com/blog/azure-ai-services-blog/graphrag-end-to-end-poc/4361080
 - https://learn.microsoft.com/azure/cosmos-db/gen-ai/quickstart-rag-chatbot
