@@ -163,6 +163,8 @@ Niels Bohr
 - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
 - https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction
 
+#### PowerShell 
+- https://www.powershellgallery.com/packages/PSPreworkout
 #### Tools
 - https://github.com/microsoft/EntraExporter
 - https://github.com/microsoft/Microsoft365DSC
