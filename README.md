@@ -109,6 +109,7 @@ Niels Bohr
 - Lokka - MS Entra Graph API MCP: https://lokka.dev/docs/install
 - Atlas MCP server that provides access to Microsoft Graph API using Entra ID authentication with On-Behalf-Of (OBO) flow: https://github.com/JasSuri/atlas
 - https://github.com/rinadelph/Agent-MCP
+- https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/deployment-guide-copilot-studio-agent-with-mcp-server-exposed-by-api-management-/4462432
 
 ## IAM
 - [OCTA: OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
