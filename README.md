@@ -300,6 +300,7 @@ Niels Bohr
 - https://blog.codingmilitia.com/
 - https://architectelevator.com/
 - https://ericonidentity.com/
+https://discovery.cevolution.co.uk/ciam/
     
 ##### 🔭 Feeds 🔭
 - https://entra.news
