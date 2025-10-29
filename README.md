@@ -166,10 +166,12 @@ Niels Bohr
 
 #### PowerShell 
 - https://www.powershellgallery.com/packages/PSPreworkout
+  
 #### Tools
 - https://github.com/microsoft/EntraExporter
 - https://github.com/microsoft/Microsoft365DSC
-
+- https://github.com/kayasax/SCIMTool
+  
 #### Windows
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
 
