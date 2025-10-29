@@ -78,13 +78,6 @@ Niels Bohr
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
 - 📖[Database Internals](https://www.amazon.com/_/dp/1492040347)
 - :boom:[Learn Advanced Distributed Systems Design](https://particular.net/adsd)
-
-## Radar
-- https://www.stigg.io/
-- https://supademo.com
-- https://backstage.io (https://github.com/shano/awesome-backstage)
-- n8n instead of https://airflow.apache.org/ & https://www.astronomer.io/
-
    
 ## AI playground
 - https://block.github.io/goose/
