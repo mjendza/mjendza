@@ -142,6 +142,9 @@ Niels Bohr
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
 - :lock: https://learn.microsoft.com/en-us/entra/global-secure-access/how-to-configure-kerberos-sso
 - https://heusser.pro/p/understanding-entra-id-app-registrations-enterprise-applications-and-service-principals-part-2-os8rb48knqez/
+#### Licensing and Features
+- https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals#features-by-license
+  
 #### Governance
 - https://www.christianfrohn.dk/2025/01/15/monitoring-access-package-delivery-status-in-entra-id-governance/ 
 - https://janbakker.tech/dynamic-approval-in-entra-id-access-packages-using-custom-extensions/
