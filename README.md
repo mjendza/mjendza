@@ -90,6 +90,7 @@ Niels Bohr
 - 🤖 testing: GitHub Copilot Chat **Agent** Mode via VS Code Insiders ([link](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/))
 - IDE for AI development https://github.com/cline/cline
 ### Claude Code
+- https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills 
 - https://github.com/brennercruvinel/CCPlugins
 - https://github.com/fcakyon/claude-settings
 ### IAM
