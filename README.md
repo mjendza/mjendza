@@ -162,6 +162,8 @@ Niels Bohr
 - https://learn.microsoft.com/en-us/security/operations/incident-response-playbooks
 - https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction
 
+- https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-token-protection
+  
 #### PowerShell 
 - https://www.powershellgallery.com/packages/PSPreworkout
   
@@ -190,7 +192,7 @@ Niels Bohr
   
 ##### MSAL
 - Refresh Token: https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/5137
-
+- https://learn.microsoft.com/en-us/entra/msal/dotnet/acquiring-tokens/desktop-mobile/linux-dotnet-sdk-wsl
 #### Monitoring (and KQL)
 - https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
 
