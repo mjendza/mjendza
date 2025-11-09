@@ -361,7 +361,10 @@ https://discovery.cevolution.co.uk/ciam/
 ## OS
 - https://omarchy.org/
 - [PoP OS](https://system76.com/pop/)
-  
+
+## Playground
+- https://developersvoice.com/blog/frontend/microfrontends-that-dont-hurt-aspnet-core/ 
+
 ## Other
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 -   [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Oslo 2023](https://www.youtube.com/watch?v=mrGfahzt-4Q)
