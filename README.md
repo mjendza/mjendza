@@ -214,6 +214,7 @@ Niels Bohr
     
 ### Azure 
 - https://github.com/mivano/azure-cost-cli
+- https://azurealan.ie/2025/11/08/using-traffic-manager-to-failover-or-bypass-azure-front-door/
   
 ### Tools
 - Kleopatra - manage Yubikey certificates, etc https://apps.kde.org/kleopatra/
