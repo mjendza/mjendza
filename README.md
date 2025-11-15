@@ -357,7 +357,8 @@ https://discovery.cevolution.co.uk/ciam/
 ### Other (tools)
 - https://www.base64decode.org/
 - https://www.urlencoder.org/
-
+- https://parseurlonline.com/
+  
 ## OS
 - https://omarchy.org/
 - [PoP OS](https://system76.com/pop/)
