@@ -16,7 +16,7 @@ Niels Bohr
 | Demo: vcplayground         | jwt-vc-json  | https://vcplayground.org/           |
 | Demo: https://funke.animo.id/ | EUDI | https://funke.animo.id/ |
 | WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
-| credo-ts | Full VC Backend (format:sd+vc-json) with REST extension https://credo.js.org/guides/extensions/rest and hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
+| credo-ts | Full VC Backend (format:sd+vc-json) hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
 | walt.id | Backend with wallet | https://docs.walt.id/community-stack/home |
 | bifold | React native wallet | https://github.com/openwallet-foundation/bifold-wallet |
 | MS Authenticator App | VC Wallet Product | |
