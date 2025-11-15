@@ -14,7 +14,7 @@ Niels Bohr
 
 ### Wallets on the market
 - https://play.google.com/store/apps/details?id=id.paradym.wallet
-- MS Authenticator App
+- 
 
 ### Table with Products & Libraries
 | Name             | Details & Supported format  | Link           |
@@ -25,7 +25,11 @@ Niels Bohr
 | Demo: https://funke.animo.id/ | EUDI | https://funke.animo.id/ |
 | WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
 | credo-ts | Full VC Backend (format:sd+vc-json) with REST extension https://credo.js.org/guides/extensions/rest and hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
-| walt.id | Backend with wallet | https://docs.walt.id/community-stack/home
+| walt.id | Backend with wallet | https://docs.walt.id/community-stack/home |
+| bifold | React native wallet | https://github.com/openwallet-foundation/bifold-wallet |
+| MS Authenticator App | VC Wallet Product | |
+| paradym wallet| | https://play.google.com/store/apps/details?id=id.paradym.wallet | 
+
 
 *not confirmed via official pages and documentation
   
