@@ -7,15 +7,7 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 Niels Bohr
 
 # Links/resources that changed my life:
-## Verifiable Credentials 
-- TypeScript - https://github.com/openwallet-foundation/credo-ts
-- .Net Wallet - https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
-- React native wallet - https://github.com/openwallet-foundation/bifold-wallet
-
-### Wallets on the market
-- https://play.google.com/store/apps/details?id=id.paradym.wallet
-- 
-
+## VC
 ### Table with Products & Libraries
 | Name             | Details & Supported format  | Link           |
 |------------------|----|-------------|
@@ -29,7 +21,7 @@ Niels Bohr
 | bifold | React native wallet | https://github.com/openwallet-foundation/bifold-wallet |
 | MS Authenticator App | VC Wallet Product | |
 | paradym wallet| | https://play.google.com/store/apps/details?id=id.paradym.wallet | 
-
+| .Net Wallet | Not Updated for long time | https://github.com/openwallet-foundation-labs/wallet-framework-dotnet | 
 
 *not confirmed via official pages and documentation
   
@@ -44,7 +36,8 @@ Niels Bohr
 - EU https://github.com/orgs/eu-digital-identity-wallet/repositories
 - KeyCloack https://keycloak-day.dev/assets/files/Norimatsu_KeycloakDevDay2025_Darmstadt.pdf
 - https://www.verifiedorchestration.com/
-#### Android support
+  
+### Android support
 - https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
 - https://developer.android.com/identity/digital-credentials/credential-verifier
 - https://developer.android.com/identity/digital-credentials/phone-number-verification
