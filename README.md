@@ -46,7 +46,7 @@ Niels Bohr
 - https://developer.apple.com/documentation/BundleResources/Entitlements/com.apple.developer.identity-document-services.document-provider.mobile-document-types
   
 ### Documentation & Blog Posts
-- [VC Deep Dive: full picture by picture flows](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
+- [Takahiko Kawasaki/VC Deep Dive/Issuing verifiable credentials in the SD-JWT VC and mdoc/mDL formats, mandated in eIDAS 2.0](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
 - [How VC Issuance works](https://www.authlete.com/developers/oid4vci/)
   
 ## Enterprise
@@ -66,9 +66,10 @@ Niels Bohr
 - https://jacquiread.com/posts/software-design/
 - Functional Programming on .net - The Best of Both Worlds - Isaac Abraham - NDC Oslo 2024: https://www.youtube.com/watch?v=V9GYPOsPj4M
 - Let's build the worst Event Sourcing system! - Oskar Dudycz - NDC London 2024: https://www.youtube.com/watch?v=20zvAJAhqS0
+
 ### evolutionary-architecture
 - by example [Github](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) and [Video](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-)
-- Distributed system real life example https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
+- Distributed system real-life example https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
 - 📖[The Software Architect Elevator](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
 - 📖[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - :hammer: [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
@@ -312,12 +313,14 @@ https://discovery.cevolution.co.uk/ciam/
 - https://cloudbrothers.info/
   
 ## 🤔 Workstation & Tools & IDE's 🤔
-### Identity 
+### Around Identity tools
 - SMS online service to test OTP: https://anonymsms.com/
 - Temporary Email Service (you can define your email address): https://www.minuteinbox.com/
+- Virtual Phone Number: https://www.twilio.com/en-us/phone-numbers
 - [Postman Collection](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
-- A verification tool to replace CAPTCHAS: https://www.cloudflare.com/products/turnstile/
-  
+- A verification tool to replace CAPTCHA: https://www.cloudflare.com/products/turnstile/
+- https://www.iredmail.org/
+    
 #### Debug JWT tokens (Open ID Connect flows)
 - https://oidcdebugger.com/debug
 - https://jwt.ms
