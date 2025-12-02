@@ -358,6 +358,7 @@ https://discovery.cevolution.co.uk/ciam/
 - https://www.base64decode.org/
 - https://www.urlencoder.org/
 - https://parseurlonline.com/
+- https://asecuritysite.com/
   
 ## OS
 - https://omarchy.org/
