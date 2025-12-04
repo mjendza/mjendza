@@ -141,6 +141,11 @@ Niels Bohr
 - :lock: https://learn.microsoft.com/en-us/entra/architecture/external-identity-deployment-architectures
 - :lock: https://learn.microsoft.com/en-us/entra/global-secure-access/how-to-configure-kerberos-sso
 - https://heusser.pro/p/understanding-entra-id-app-registrations-enterprise-applications-and-service-principals-part-2-os8rb48knqez/
+
+#### 🗞️ News
+- https://learn.microsoft.com/en-us/entra/fundamentals/whats-new-ignite-2025#microsoft-entra-external-id
+- https://learn.microsoft.com/en-us/entra/identity/hybrid/user-source-of-authority-overview
+- https://learn.microsoft.com/en-us/entra/identity/authentication/synced-passkey-faq
 #### Licensing and Features
 - https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing
 - https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals#features-by-license
