@@ -167,6 +167,7 @@ Niels Bohr
 - https://learn.microsoft.com/en-us/entra/architecture/security-operations-introduction
 
 - https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-token-protection
+- https://cloudbrothers.info/en/conditional-access-bypasses/
   
 #### PowerShell 
 - https://www.powershellgallery.com/packages/PSPreworkout
