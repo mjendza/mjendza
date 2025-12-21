@@ -48,6 +48,9 @@ Niels Bohr
 ### Documentation & Blog Posts
 - [Takahiko Kawasaki/VC Deep Dive/Issuing verifiable credentials in the SD-JWT VC and mdoc/mDL formats, mandated in eIDAS 2.0](https://darutk.medium.com/oid4vci-demo-87a232cfcc2a) 
 - [How VC Issuance works](https://www.authlete.com/developers/oid4vci/)
+
+### Tools 
+- DID Resolver: https://dev.uniresolver.io/
   
 ## Enterprise
 ### Cloud Architecture Materials
