@@ -372,6 +372,8 @@ https://discovery.cevolution.co.uk/ciam/
 - https://parseurlonline.com/
 - https://asecuritysite.com/
   
+### Other 
+- https://comparisontabl.es/cloud-storage/ 
 ## OS
 - https://omarchy.org/
 - [PoP OS](https://system76.com/pop/)
