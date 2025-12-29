@@ -372,7 +372,10 @@ https://discovery.cevolution.co.uk/ciam/
 - https://www.urlencoder.org/
 - https://parseurlonline.com/
 - https://asecuritysite.com/
-  
+
+### OSINT & SOC
+- https://osint.aadinternals.com/
+- https://soctoolkit.com/
 ### Other 
 - https://comparisontabl.es/cloud-storage/ 
 ## OS
