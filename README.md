@@ -38,6 +38,11 @@ Niels Bohr
 - https://www.verifiedorchestration.com/
   
 ### Specifications 
+#### Final
+- https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html
+- https://openid.net/specs/openid-4-verifiable-presentations-1_0.html
+- https://openid.net/specs/openid4vc-high-assurance-interoperability-profile-1_0-final.html
+#### Drafts & Concepts
 - https://github.com/pic-protocol/pic-spec/blob/main/draft/0.1/pic-spec.md
 
 ### Android support
