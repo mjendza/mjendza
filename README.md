@@ -37,6 +37,9 @@ Niels Bohr
 - KeyCloack https://keycloak-day.dev/assets/files/Norimatsu_KeycloakDevDay2025_Darmstadt.pdf
 - https://www.verifiedorchestration.com/
   
+### Specifications 
+- https://github.com/pic-protocol/pic-spec/blob/main/draft/0.1/pic-spec.md
+
 ### Android support
 - https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
 - https://developer.android.com/identity/digital-credentials/credential-verifier
