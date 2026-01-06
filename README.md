@@ -374,7 +374,8 @@ https://discovery.cevolution.co.uk/ciam/
 - OpenWrt as router OS https://openwrt.org/
 - smart switches and other devices https://www.shelly.com/
 - HAVC: Salus Controls & Panasonic AC (with https://github.com/sockless-coding/panasonic_cc integration)
-  
+- https://mqtt-explorer.com/
+    
 ### Other (tools)
 - https://www.base64decode.org/
 - https://www.urlencoder.org/
