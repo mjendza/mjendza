@@ -6,6 +6,11 @@ I like MTB and spend time in the sauna, but this is GitHub ;)
 `Prediction is very difficult, especially about the future.`
 Niels Bohr
 
+# My Links and resources 
+## Repositories
+- [Workshop: Entra as Code](https://github.com/mjendza/workshop-entra-as-code-interactive)
+- [Terraform Entra Verified ID Provider](https://github.com/mjendza/terraform-provider-verifiedid)
+  
 # Links/resources that changed my life:
 ## VC
 ### Table with Products & Libraries
