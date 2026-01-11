@@ -41,7 +41,7 @@ Niels Bohr
 - EU https://github.com/orgs/eu-digital-identity-wallet/repositories
 - KeyCloack https://keycloak-day.dev/assets/files/Norimatsu_KeycloakDevDay2025_Darmstadt.pdf
 - https://www.verifiedorchestration.com/
-  
+- [Specification of Strong Customer Authentication (SCA) Implementation with the Wallet](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/blob/main/docs/technical-specifications/ts12-electronic-payments-SCA-implementation-with-wallet.md)  
 ### Specifications 
 #### Final
 - https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html
