@@ -386,6 +386,8 @@ https://discovery.cevolution.co.uk/ciam/
 - https://www.urlencoder.org/
 - https://parseurlonline.com/
 - https://asecuritysite.com/
+- https://www.bestrandoms.com/random-address-in-us
+
 
 ### OSINT & SOC
 - https://osint.aadinternals.com/
