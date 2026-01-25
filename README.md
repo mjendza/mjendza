@@ -159,7 +159,8 @@ Niels Bohr
 - https://heusser.pro/p/understanding-entra-id-app-registrations-enterprise-applications-and-service-principals-part-2-os8rb48knqez/
 - https://learn.microsoft.com/en-us/entra/agent-id/identity-platform/ 
 - https://learn.microsoft.com/en-us/entra/identity/users/convert-external-users-internal
-
+-
+https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 #### 🗞️ News
 - https://learn.microsoft.com/en-us/entra/fundamentals/whats-new-ignite-2025#microsoft-entra-external-id
 - https://learn.microsoft.com/en-us/entra/identity/hybrid/user-source-of-authority-overview
