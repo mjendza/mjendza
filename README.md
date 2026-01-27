@@ -188,6 +188,10 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-token-protection
 - https://cloudbrothers.info/en/conditional-access-bypasses/
   
+##### KQL 
+- https://www.systanddeploy.com/2025/10/dashboard-of-windows-authentication.html
+- https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
+  
 #### PowerShell 
 - https://www.powershellgallery.com/packages/PSPreworkout
   
@@ -219,8 +223,6 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 ##### MSAL
 - Refresh Token: https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/5137
 - https://learn.microsoft.com/en-us/entra/msal/dotnet/acquiring-tokens/desktop-mobile/linux-dotnet-sdk-wsl
-#### Monitoring (and KQL)
-- https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
 
 #### Deep dive
 - Deep Dive into Entra: Exclusive Outage Stories & Architectural Innovations: https://www.youtube.com/watch?v=PtEQYnRu6eo
