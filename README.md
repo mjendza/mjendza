@@ -136,6 +136,7 @@ Niels Bohr
 - CIAM MS Overview: https://www.microsoft.com/en-us/security/business/security-101/what-is-ciam
 - DPoP https://auth0.com/docs/secure/sender-constraining/demonstrating-proof-of-possession-dpop & https://auth0.com/blog/protect-your-access-tokens-with-dpop/ 
 - Entra Primary Refresh Token https://learn.microsoft.com/en-us/entra/identity/devices/concept-primary-refresh-token?tabs=windows-prt-issued%2Cwindows-prt-used%2Cwindows-prt-renewal%2Cwindows-prt-protection%2Cwindows-apptokens%2Cwindows-browsercookies%2Cwindows-mfa
+- https://brave.com/blog/zklogin/
 ### Open Source
 - https://github.com/discord/access
 - https://github.com/jhaals/yopass
@@ -161,6 +162,7 @@ Niels Bohr
 - https://learn.microsoft.com/en-us/entra/identity/users/convert-external-users-internal
 -
 https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
+- https://derkvanderwoude.medium.com/agent-identity-security-demystified-2ecb164239bf
 #### 🗞️ News
 - https://learn.microsoft.com/en-us/entra/fundamentals/whats-new-ignite-2025#microsoft-entra-external-id
 - https://learn.microsoft.com/en-us/entra/identity/hybrid/user-source-of-authority-overview
