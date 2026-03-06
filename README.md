@@ -395,7 +395,15 @@ https://discovery.cevolution.co.uk/ciam/
 - https://asecuritysite.com/
 - https://www.bestrandoms.com/random-address-in-us
 
+### AI 
+- https://github.com/AlexsJones/llmfit
+- 
 
+#### Agents & Tools
+- https://github.com/HKUDS/nanobot
+##### Skills
+- https://graph.pm/
+  
 ### OSINT & SOC
 - https://osint.aadinternals.com/
 - https://soctoolkit.com/
