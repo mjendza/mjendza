@@ -409,6 +409,7 @@ https://discovery.cevolution.co.uk/ciam/
 - https://developersvoice.com/blog/frontend/microfrontends-that-dont-hurt-aspnet-core/ 
 
 ## Other
+-   [Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic](https://www.youtube.com/watch?v=AmdLVWMdjOk)
 -   [Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs](https://ian.sh/fia)
 -   [Wat](https://www.destroyallsoftware.com/talks/wat)
 -   [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Oslo 2023](https://www.youtube.com/watch?v=mrGfahzt-4Q)
