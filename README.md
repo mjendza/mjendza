@@ -16,17 +16,17 @@ Niels Bohr
 ### Table with Products & Libraries
 | Name             | Details & Supported format  | Link           |
 |------------------|----|-------------|
-| Paradym | Dedicated Wallet (format:sd+vc-json)* | https://paradym.id/ |
+| Paradym | Dedicated Wallet (format:sd+vc-json)* | https://paradym.id/ & https://play.google.com/store/apps/details?id=id.paradym.wallet |
 | Entra Verified Id         | Authenticatior App + Wallet SDK from MS  | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id         |
 | Demo: vcplayground         | jwt-vc-json  | https://vcplayground.org/           |
-| Demo: https://funke.animo.id/ | EUDI | https://funke.animo.id/ |
+| Demo: https://funke.animo.id/ | EUDI/cred-ts | https://funke.animo.id/ - (test credo-ts solution) |
 | WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
 | credo-ts | Full VC Backend (format:sd+vc-json) hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
 | walt.id | Backend with wallet | https://docs.walt.id/community-stack/home |
 | bifold | React native wallet | https://github.com/openwallet-foundation/bifold-wallet |
-| MS Authenticator App | VC Wallet Product | |
-| paradym wallet| | https://play.google.com/store/apps/details?id=id.paradym.wallet | 
+| MS Authenticator App | VC Wallet Product | | 
 | .Net Wallet | Not Updated for long time | https://github.com/openwallet-foundation-labs/wallet-framework-dotnet | 
+| didwebvh /didwebvh-ts | play with did:webvh | https://github.com/decentralized-identity/didwebvh-ts | 
 
 *not confirmed via official pages and documentation
   
