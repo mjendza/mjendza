@@ -163,6 +163,7 @@ Niels Bohr
 -
 https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://derkvanderwoude.medium.com/agent-identity-security-demystified-2ecb164239bf
+- https://github.com/davidalonsod/Dalonso-Security-Repo/tree/main/Workbooks
 #### 🗞️ News
 - https://learn.microsoft.com/en-us/entra/fundamentals/whats-new-ignite-2025#microsoft-entra-external-id
 - https://learn.microsoft.com/en-us/entra/identity/hybrid/user-source-of-authority-overview
