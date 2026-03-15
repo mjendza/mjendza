@@ -1,23 +1,23 @@
 # Hi there 👋 I'm Mateusz Jendza
 
-I like MTB and spend time in the sauna, but this is GitHub ;)
+I enjoy mountain biking (MTB) and spending time in the sauna, but since this is GitHub, let's focus on tech! ;)
 
 # Motto
 `Prediction is very difficult, especially about the future.`
-Niels Bohr
+— Niels Bohr
 
-# My Links and resources 
+# My Links and Resources 
 ## Repositories
 - [Workshop: Entra as Code](https://github.com/mjendza/workshop-entra-as-code-interactive)
 - [Terraform Entra Verified ID Provider](https://github.com/mjendza/terraform-provider-verifiedid)
   
-# Links/resources that changed my life:
+# Links and Resources That Changed My Life:
 ## VC
-### Table with Products & Libraries
-| Name             | Details & Supported format  | Link           |
+### Products & Libraries
+| Name             | Details & Supported Format  | Link           |
 |------------------|----|-------------|
-| Paradym | Dedicated Wallet (format:sd+vc-json)* | https://paradym.id/ & https://play.google.com/store/apps/details?id=id.paradym.wallet |
-| Entra Verified Id         | Authenticatior App + Wallet SDK from MS  | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id         |
+| Paradym | Dedicated Wallet (format: sd+vc-json)* | https://paradym.id/ & https://play.google.com/store/apps/details?id=id.paradym.wallet |
+| Entra Verified ID         | Authenticator App + Wallet SDK from MS  | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id         |
 | Demo: vcplayground         | jwt-vc-json  | https://vcplayground.org/           |
 | Demo: https://funke.animo.id/ | EUDI/cred-ts | https://funke.animo.id/ - (test credo-ts solution) |
 | WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
@@ -28,7 +28,7 @@ Niels Bohr
 | .Net Wallet | Not Updated for long time | https://github.com/openwallet-foundation-labs/wallet-framework-dotnet | 
 | didwebvh /didwebvh-ts | play with did:webvh | https://github.com/decentralized-identity/didwebvh-ts | 
 
-*not confirmed via official pages and documentation
+*Not confirmed via official pages and documentation
   
 ### Links  
 - [VC for Europeans](https://github.com/goeIDAS/testbed)
@@ -68,7 +68,7 @@ Niels Bohr
 ## Enterprise
 ### Cloud Architecture Materials
 - https://github.com/Azure/Enterprise-Scale
-- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ with nice [visio drawing](https://github.com/microsoft/CloudAdoptionFramework/raw/main/ready/enterprise-scale-architecture.vsdx)
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ with a nice [Visio drawing](https://github.com/microsoft/CloudAdoptionFramework/raw/main/ready/enterprise-scale-architecture.vsdx)
 - :hammer: [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 #### Landing Zones
 - https://github.com/Azure/ALZ-Bicep/wiki/Accelerator
@@ -83,9 +83,9 @@ Niels Bohr
 - Functional Programming on .net - The Best of Both Worlds - Isaac Abraham - NDC Oslo 2024: https://www.youtube.com/watch?v=V9GYPOsPj4M
 - Let's build the worst Event Sourcing system! - Oskar Dudycz - NDC London 2024: https://www.youtube.com/watch?v=20zvAJAhqS0
 
-### evolutionary-architecture
-- by example [Github](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) and [Video](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-)
-- Distributed system real-life example https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
+### Evolutionary Architecture
+- By example: [GitHub](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) and [Video](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example?tab=readme-ov-file#videos-)
+- Distributed systems real-life example: https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
 - 📖[The Software Architect Elevator](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542)
 - 📖[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - :hammer: [PL Async Internals in .NET](https://www.youtube.com/watch?v=OfLK1a1jUjU&t=2862s)
@@ -262,7 +262,7 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://chrome.google.com/webstore/detail/saml-devtools-extension/jndllhgbinhiiddokbeoeepbppdnhhio
 
 ### MSAL | OpenID Connect | Azure ==> Authentication & Authorization 
-- Summary about MS samples & platforms https://learn.microsoft.com/en-us/entra/identity-platform/sample-v2-code
+- Summary of MS samples & platforms: https://learn.microsoft.com/en-us/entra/identity-platform/sample-v2-code
 - [MS Samples](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2)
 - [MSAL - Retry policies](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/retry-policy)
 - [MSAL Logger](https://learn.microsoft.com/en-us/entra/msal/dotnet/advanced/exceptions/msal-logging#iidentitylogger-implementation)
@@ -345,11 +345,11 @@ https://discovery.cevolution.co.uk/ciam/
 - https://www.cloud-architekt.net/
 - https://cloudbrothers.info/
   
-## 🤔 Workstation & Tools & IDE's 🤔
-### Around Identity tools
-- SMS online service to test OTP: https://anonymsms.com/
-- Temporary Email Service (you can define your email address): https://www.minuteinbox.com/
-- Virtual Phone Number: https://www.twilio.com/en-us/phone-numbers
+## 🤔 Workstation, Tools, & IDEs 🤔
+### Identity Tools
+- Online SMS service to test OTP: https://anonymsms.com/
+- Temporary Email Service (allows custom email addresses): https://www.minuteinbox.com/
+- Virtual Phone Numbers: https://www.twilio.com/en-us/phone-numbers
 - [Postman Collection](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow#protocol-details)
 - A verification tool to replace CAPTCHA: https://www.cloudflare.com/products/turnstile/
 - https://www.iredmail.org/
@@ -362,9 +362,9 @@ https://discovery.cevolution.co.uk/ciam/
 - VS Code + B2C extension + APP insights debugger
 
 ### Software Development
-- temp mail(trashmail) as a service https://github.com/HaschekSolutions/opentrashmail
-- Mock Service (when you need to check the request payload ;) ) https://beeceptor.com/
-- Security Headers check https://securityheaders.com/
+- Temp mail (trashmail) as a service: https://github.com/HaschekSolutions/opentrashmail
+- Mock Service (useful for checking request payloads 😉): https://beeceptor.com/
+- Security Headers check: https://securityheaders.com/
 - https://backstage.io/
 - Find free replacement: https://openalternative.co
 - https://pagespeed.web.dev/
@@ -424,4 +424,4 @@ https://discovery.cevolution.co.uk/ciam/
 -   [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Oslo 2023](https://www.youtube.com/watch?v=mrGfahzt-4Q)
 -   [Foxes](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
 -   [Mountain Biking](https://www.youtube.com/watch?v=WPVRU7jSYkQ)
--   [Żywot programisty](https://youtu.be/_q-l6Cn6WxY) - sorry only for polish programmers :construction_worker:
+-   [Żywot programisty](https://youtu.be/_q-l6Cn6WxY) - Sorry, only for Polish programmers :construction_worker:
