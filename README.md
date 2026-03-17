@@ -169,6 +169,11 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://www.christianfrohn.dk/2025/01/15/monitoring-access-package-delivery-status-in-entra-id-governance/ 
 - https://janbakker.tech/dynamic-approval-in-entra-id-access-packages-using-custom-extensions/
 - review permissions https://m365scripts.com/microsoft365/manage-entra-id-delegated-permissions-for-specific-users-using-microsoft-graph/
+
+#### Conditional Access
+- https://learn.microsoft.com/en-us/entra/identity/conditional-access/service-dependencies
+- https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-conditional-access-cloud-apps?tabs=powershell#office-365
+  
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
 - https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
