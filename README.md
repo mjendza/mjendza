@@ -93,20 +93,12 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - 📖[Database Internals](https://www.amazon.com/_/dp/1492040347)
 - :boom:[Learn Advanced Distributed Systems Design](https://particular.net/adsd)
    
-## AI playground
-- https://block.github.io/goose/
-- 👑 https://bolt.new (React UI by AI)
-- 👑👑 https://www.anthropic.com/claude-code & https://github.com/ryoppippi/ccusage
-- 👑 testing: https://aider.chat/
-- https://app.co.dev/
-- https://v0.dev/
-- 🤖 testing: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
-- 🤖 testing: GitHub Copilot Chat **Agent** Mode via VS Code Insiders ([link](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/))
-- IDE for AI development https://github.com/cline/cline
-### Claude Code
+## AI
+### Claude Code (this is the winner for now) 
 - https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills 
 - https://github.com/brennercruvinel/CCPlugins
 - https://github.com/fcakyon/claude-settings
+  
 ### IAM
 - https://blog.christianposta.com/api-keys-are-a-bad-idea-for-enterprise-llm-agent-and-mcp-access/ 
 ### LLM & chat & solutions
