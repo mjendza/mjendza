@@ -202,9 +202,17 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://github.com/microsoft/EntraExporter
 - https://github.com/microsoft/Microsoft365DSC
 - https://github.com/kayasax/SCIMTool
+- https://github.com/ThomasKur/M365Documentation
   
+##### Online Tools
+- https://permissions.factorlabs.pl/
+- https://entrascopes.com/   
+- https://github.com/merill/microsoft-info
+    
 #### Entra as Code
+- https://github.com/mjendza/workshop-entra-as-code-interactive
 - https://blog.kewalaka.nz/post/2025/11/avm-pim-group-module/
+  
 #### Windows
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
 
