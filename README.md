@@ -94,10 +94,15 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - :boom:[Learn Advanced Distributed Systems Design](https://particular.net/adsd)
    
 ## AI
+- https://github.com/AlexsJones/llmfit
 ### Claude Code (this is the winner for now) 
-- https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills 
+- https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+- https://github.com/anthropics/claude-cookbooks
+- https://github.com/anthropics/skills
 - https://github.com/brennercruvinel/CCPlugins
 - https://github.com/fcakyon/claude-settings
+- https://github.com/affaan-m/everything-claude-code
+- 
   
 ### IAM
 - https://blog.christianposta.com/api-keys-are-a-bad-idea-for-enterprise-llm-agent-and-mcp-access/ 
