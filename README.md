@@ -27,7 +27,7 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 | MS Authenticator App | VC Wallet Product | | 
 | .Net Wallet | Not Updated for long time | https://github.com/openwallet-foundation-labs/wallet-framework-dotnet | 
 | didwebvh /didwebvh-ts | play with did:webvh | https://github.com/decentralized-identity/didwebvh-ts | 
-
+| Apostille - Verifiable Credentials Platform | | https://github.com/openwallet-foundation-labs/apostille |
 *Not confirmed via official pages and documentation
   
 ### Links  
