@@ -41,7 +41,8 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - EU https://github.com/orgs/eu-digital-identity-wallet/repositories
 - KeyCloack https://keycloak-day.dev/assets/files/Norimatsu_KeycloakDevDay2025_Darmstadt.pdf
 - https://www.verifiedorchestration.com/
-- [Specification of Strong Customer Authentication (SCA) Implementation with the Wallet](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/blob/main/docs/technical-specifications/ts12-electronic-payments-SCA-implementation-with-wallet.md)  
+- [Specification of Strong Customer Authentication (SCA) Implementation with the Wallet](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/blob/main/docs/technical-specifications/ts12-electronic-payments-SCA-implementation-with-wallet.md)
+- to check: https://www.ethentic.eu/ 
 ### Specifications 
 #### Final
 - https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html
@@ -102,7 +103,10 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - https://github.com/brennercruvinel/CCPlugins
 - https://github.com/fcakyon/claude-settings
 - https://github.com/affaan-m/everything-claude-code
-- 
+  
+### Other
+- still nice to make a website https://bolt.new
+- to check: https://paperclip.ing/
   
 ### IAM
 - https://blog.christianposta.com/api-keys-are-a-bad-idea-for-enterprise-llm-agent-and-mcp-access/ 
