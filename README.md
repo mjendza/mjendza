@@ -95,7 +95,11 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - :boom:[Learn Advanced Distributed Systems Design](https://particular.net/adsd)
    
 ## AI
-- https://github.com/AlexsJones/llmfit
+### Daily basis AI for me
+- Claude Code (99.99% times via CLI)
+- GitHub Copilot (95% times via CLI)
+- Google Antigravity (Google Gemini) 100% via IDE
+
 ### Claude Code (this is the winner for now) 
 - https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
 - https://github.com/anthropics/claude-cookbooks
@@ -107,7 +111,8 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 ### Other
 - still nice to make a website https://bolt.new
 - to check: https://paperclip.ing/
-  
+- https://github.com/AlexsJones/llmfit
+    
 ### IAM
 - https://blog.christianposta.com/api-keys-are-a-bad-idea-for-enterprise-llm-agent-and-mcp-access/ 
 ### LLM & chat & solutions
@@ -390,13 +395,17 @@ https://discovery.cevolution.co.uk/ciam/
      
 #### Tunnel/proxy to the local environment
 - [www.cloudflare.com Tunnel](https://www.cloudflare.com/products/tunnel/)
+- :heart_eyes_cat: https://tailscale.com 
 - ngrok.com - need to pay 10$ for features
 - Visual Studio IDE built-in proxy
 
+##### Tailscaile
+Enable proxy for service `tailscale serve --service=svc:my-name-of-service --https=3000 http://localhost:3000`
+
 ### Smarthome (and not only)
-- HomeAssistant: https://www.home-assistant.io/
+- :heart_eyes_cat: HomeAssistant: https://www.home-assistant.io/
 - esphome https://esphome.io/ (ESP8266 | ESP32 | other => easy yaml config and push to HomeAssistant)
-- portainer https://www.portainer.io/ (Conteiner Management for Docker)
+- Portainer https://www.portainer.io/ (Container Management for Docker)
 - Home DNS server? Try PiHole https://pi-hole.net/
 - OpenWrt as router OS https://openwrt.org/
 - smart switches and other devices https://www.shelly.com/
