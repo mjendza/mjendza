@@ -175,6 +175,7 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://learn.microsoft.com/en-us/entra/identity/hybrid/user-source-of-authority-overview
 - https://learn.microsoft.com/en-us/entra/identity/authentication/synced-passkey-faq
 - feature plan & list (not official): https://deltapulse.app/dashboard
+- https://tech.nicolonsky.ch/AiTM-Phishing-with-Azure-Functions/
 #### Licensing and Features
 - https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing
 - https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals#features-by-license
