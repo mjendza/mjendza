@@ -224,7 +224,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 #### Entra as Code
 - https://github.com/mjendza/workshop-entra-as-code-interactive
 - https://blog.kewalaka.nz/post/2025/11/avm-pim-group-module/
-  
+- https://mattias.engineer/blog/2026/terraform-github-1/
+
 #### Windows
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
 
