@@ -202,7 +202,7 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 
 - https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-token-protection
 - https://cloudbrothers.info/en/conditional-access-bypasses/
-  
+- https://github.com/guardzcom/security-research-labs/tree/main/AI-Cloud-Tools/M365-Tools/EntraReaper  
 ##### KQL 
 - https://www.systanddeploy.com/2025/10/dashboard-of-windows-authentication.html
 - https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
