@@ -420,7 +420,8 @@ Enable proxy for service `tailscale serve --service=svc:my-name-of-service --htt
 - https://parseurlonline.com/
 - https://asecuritysite.com/
 - https://www.bestrandoms.com/random-address-in-us
-
+- https://iancoleman.io/bip39/#english
+  
 ### AI 
 - https://github.com/AlexsJones/llmfit
 - 
