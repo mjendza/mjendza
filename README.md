@@ -430,6 +430,50 @@ Enable proxy for service `tailscale serve --service=svc:my-name-of-service --htt
 - https://github.com/HKUDS/nanobot
 ##### Skills
 - https://graph.pm/
+#### My favourite MCP servers
+Sample command claude: `claude mcp add --transport http name-of-server https://mcp.server.ai/mcp`
+Sample command GitHub Copilot: `~/.copilot/mcp-config.json`
+```
+"playwright": {
+      "type": "local",
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"],
+      "env": {},
+      "tools": ["*"]
+    },
+```
+
+- excalidraw-mcp http https://mcp.excalidraw.com
+- MicrosoftDocs-MCP http https://learn.microsoft.com/api/mcp
+- Lokka (for Entra ID) (GitHub Copilot config)
+  ```
+  "Lokka-Microsoft-Lokal": {
+			"command": "npx",
+			"args": [
+              "C:/dev/lokka/src/mcp/build/main.js"
+          	],
+			"env": {
+				"CLIENT_ID":"",
+				"TENANT_ID":"",
+				"CLIENT_SECRET": ""
+			}
+		},
+
+		"Lokka-Microsoft": {
+			"command": "npx",
+			"args": [
+              "-y @merill/lokka"
+          	],
+			"env": {
+				"CLIENT_ID":"",
+				"TENANT_ID":"",
+				"CLIENT_SECRET": ""
+			},
+			"type": "stdio"
+		},
+  ```
+
+
   
 ### OSINT & SOC
 - https://osint.aadinternals.com/
