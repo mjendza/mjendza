@@ -221,6 +221,7 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://github.com/ThomasKur/M365Documentation
 - https://github.com/Semperis/EntraGoat
 - https://github.com/IdentityMan/MasterclassELDK26
+- https://github.com/maester365/maester
       
 ##### Online Tools
 - https://permissions.factorlabs.pl/
