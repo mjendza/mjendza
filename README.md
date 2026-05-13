@@ -215,7 +215,13 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://github.com/microsoft/Microsoft365DSC
 - https://github.com/kayasax/SCIMTool
 - https://github.com/ThomasKur/M365Documentation
-  
+- https://github.com/Cloud-Architekt/EntraOps
+- https://github.com/LETHAL-FORENSICS/Microsoft-Analyzer-Suite
+- https://github.com/Noble-Effeciency13/M365IdentityPosture
+- https://github.com/ThomasKur/M365Documentation
+- https://github.com/Semperis/EntraGoat
+- https://github.com/IdentityMan/MasterclassELDK26
+      
 ##### Online Tools
 - https://permissions.factorlabs.pl/
 - https://entrascopes.com/   
@@ -225,6 +231,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://github.com/mjendza/workshop-entra-as-code-interactive
 - https://blog.kewalaka.nz/post/2025/11/avm-pim-group-module/
 - https://mattias.engineer/blog/2026/terraform-github-1/
+
+
 
 #### Windows
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
