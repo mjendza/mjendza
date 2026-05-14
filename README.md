@@ -176,6 +176,10 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
 - https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
 
+#### Account Recovery
+- https://learn.microsoft.com/en-us/entra/identity-platform/tutorial-custom-authentication-extension-account-recovery?tabs=azure-portal
+- https://github.com/Azure-Samples/active-directory-verifiable-credentials-dotnet/tree/main/7-AccountRecovery-ClaimsMatching
+  
 #### Security & Monitoring
 - https://github.com/Cloud-Architekt/AzureAD-Attack-Defense
 - https://github.com/reprise99/Sentinel-Queries
@@ -185,11 +189,13 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 
 - https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-token-protection
 - https://cloudbrothers.info/en/conditional-access-bypasses/
-- https://github.com/guardzcom/security-research-labs/tree/main/AI-Cloud-Tools/M365-Tools/EntraReaper  
+- https://github.com/guardzcom/security-research-labs/tree/main/AI-Cloud-Tools/M365-Tools/EntraReaper
+   
 ##### KQL 
 - https://www.systanddeploy.com/2025/10/dashboard-of-windows-authentication.html
 - https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
-- https://github.com/davidalonsod/Dalonso-Security-Repo 
+- https://github.com/davidalonsod/Dalonso-Security-Repo
+  
 #### PowerShell 
 - https://www.powershellgallery.com/packages/PSPreworkout
   
@@ -210,7 +216,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://permissions.factorlabs.pl/
 - https://entrascopes.com/   
 - https://github.com/merill/microsoft-info
-    
+- https://entratracker.aboutcloud.io/
+      
 #### Entra as Code
 - https://github.com/mjendza/workshop-entra-as-code-interactive
 - https://blog.kewalaka.nz/post/2025/11/avm-pim-group-module/
