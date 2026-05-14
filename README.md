@@ -14,20 +14,20 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 # Links and Resources That Changed My Life:
 ## VC
 ### Products & Libraries
-| Name             | Details & Supported Format  | Link           |
-|------------------|----|-------------|
-| Paradym | Dedicated Wallet (format: sd+vc-json)* | https://paradym.id/ & https://play.google.com/store/apps/details?id=id.paradym.wallet |
-| Entra Verified ID         | Authenticator App + Wallet SDK from MS  | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id         |
-| Demo: vcplayground         | jwt-vc-json  | https://vcplayground.org/           |
-| Demo: https://funke.animo.id/ | EUDI/cred-ts | https://funke.animo.id/ - (test credo-ts solution) |
-| WalletSDK | works with vcplayground (format:jwt-vc-json)* | https://github.com/trustbloc/wallet-sdk |
-| credo-ts | Full VC Backend (format:sd+vc-json) hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/ | 
-| walt.id | Backend with wallet | https://docs.walt.id/community-stack/home |
-| bifold | React native wallet | https://github.com/openwallet-foundation/bifold-wallet |
-| MS Authenticator App | VC Wallet Product | | 
-| .Net Wallet | Not Updated for long time | https://github.com/openwallet-foundation-labs/wallet-framework-dotnet | 
-| didwebvh /didwebvh-ts | play with did:webvh | https://github.com/decentralized-identity/didwebvh-ts | 
-| Apostille - Verifiable Credentials Platform | | https://github.com/openwallet-foundation-labs/apostille |
+| Name                                        | Details & Supported Format                                        | Link                                                                                          |
+|---------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Paradym                                     | Dedicated Wallet (format: sd+vc-json)*                            | https://paradym.id/ & https://play.google.com/store/apps/details?id=id.paradym.wallet         |
+| Entra Verified ID                           | Authenticator App + Wallet SDK from MS                            | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id |
+| Demo: vcplayground                          | jwt-vc-json                                                       | https://vcplayground.org/                                                                     |
+| Demo: https://funke.animo.id/               | EUDI/cred-ts                                                      | https://funke.animo.id/ - (test credo-ts solution)                                            |
+| WalletSDK                                   | works with vcplayground (format:jwt-vc-json)*                     | https://github.com/trustbloc/wallet-sdk                                                       |
+| credo-ts                                    | Full VC Backend (format:sd+vc-json) hosted with docker compose 💪 | https://github.com/openwallet-foundation/credo-ts https://credo.js.org/                       | 
+| walt.id                                     | Backend with wallet                                               | https://docs.walt.id/community-stack/home                                                     |
+| bifold                                      | React native wallet                                               | https://github.com/openwallet-foundation/bifold-wallet                                        |
+| MS Authenticator App                        | VC Wallet Product                                                 |                                                                                               | 
+| .Net Wallet                                 | Not Updated for long time                                         | https://github.com/openwallet-foundation-labs/wallet-framework-dotnet                         | 
+| didwebvh /didwebvh-ts                       | play with did:webvh                                               | https://github.com/decentralized-identity/didwebvh-ts                                         | 
+| Apostille - Verifiable Credentials Platform |                                                                   | https://github.com/openwallet-foundation-labs/apostille                                       |
 *Not confirmed via official pages and documentation
   
 ### Links  
@@ -43,6 +43,7 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - https://www.verifiedorchestration.com/
 - [Specification of Strong Customer Authentication (SCA) Implementation with the Wallet](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/blob/main/docs/technical-specifications/ts12-electronic-payments-SCA-implementation-with-wallet.md)
 - to check: https://www.ethentic.eu/ 
+
 ### Specifications 
 #### Final
 - https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html
@@ -93,25 +94,7 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
 - 📖[Database Internals](https://www.amazon.com/_/dp/1492040347)
 - :boom:[Learn Advanced Distributed Systems Design](https://particular.net/adsd)
-   
-## AI
-### Daily basis AI for me
-- Claude Code (99.99% times via CLI)
-- GitHub Copilot (95% times via CLI)
-- Google Antigravity (Google Gemini) 100% via IDE
 
-### Claude Code (this is the winner for now) 
-- https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
-- https://github.com/anthropics/claude-cookbooks
-- https://github.com/anthropics/skills
-- https://github.com/brennercruvinel/CCPlugins
-- https://github.com/fcakyon/claude-settings
-- https://github.com/affaan-m/everything-claude-code
-  
-### Other
-- still nice to make a website https://bolt.new
-- to check: https://paperclip.ing/
-- https://github.com/AlexsJones/llmfit
     
 ### IAM
 - https://blog.christianposta.com/api-keys-are-a-bad-idea-for-enterprise-llm-agent-and-mcp-access/ 
@@ -364,7 +347,7 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://blog.codingmilitia.com/
 - https://architectelevator.com/
 - https://ericonidentity.com/
-https://discovery.cevolution.co.uk/ciam/
+- https://discovery.cevolution.co.uk/ciam/
     
 ##### 🔭 Feeds 🔭
 - https://entra.news
@@ -396,7 +379,7 @@ https://discovery.cevolution.co.uk/ciam/
 - Mock Service (useful for checking request payloads 😉): https://beeceptor.com/
 - Security Headers check: https://securityheaders.com/
 - https://backstage.io/
-- Find free replacement: https://openalternative.co
+- Find a free replacement: https://openalternative.co
 - https://pagespeed.web.dev/
   
 #### Workflow management
@@ -431,57 +414,8 @@ Enable proxy for service `tailscale serve --service=svc:my-name-of-service --htt
 - https://www.bestrandoms.com/random-address-in-us
 - https://iancoleman.io/bip39/#english
   
-### AI 
-- https://github.com/AlexsJones/llmfit
-- 
-
-#### Agents & Tools
-- https://github.com/HKUDS/nanobot
-##### Skills
-- https://graph.pm/
-#### My favourite MCP servers
-Sample command claude: `claude mcp add --transport http name-of-server https://mcp.server.ai/mcp`
-Sample command GitHub Copilot: `~/.copilot/mcp-config.json`
-```
-"playwright": {
-      "type": "local",
-      "command": "npx",
-      "args": ["@playwright/mcp@latest"],
-      "env": {},
-      "tools": ["*"]
-    },
-```
-
-- excalidraw-mcp http https://mcp.excalidraw.com
-- MicrosoftDocs-MCP http https://learn.microsoft.com/api/mcp
-- Lokka (for Entra ID) (GitHub Copilot config)
-  ```
-  "Lokka-Microsoft-Lokal": {
-			"command": "npx",
-			"args": [
-              "C:/dev/lokka/src/mcp/build/main.js"
-          	],
-			"env": {
-				"CLIENT_ID":"",
-				"TENANT_ID":"",
-				"CLIENT_SECRET": ""
-			}
-		},
-
-		"Lokka-Microsoft": {
-			"command": "npx",
-			"args": [
-              "-y @merill/lokka"
-          	],
-			"env": {
-				"CLIENT_ID":"",
-				"TENANT_ID":"",
-				"CLIENT_SECRET": ""
-			},
-			"type": "stdio"
-		},
-  ```
-
+### AI
+[Dedicated page](ai/README.md)
 
   
 ### OSINT & SOC
