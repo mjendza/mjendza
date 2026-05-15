@@ -218,7 +218,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://entrascopes.com/   
 - https://github.com/merill/microsoft-info
 - https://entratracker.aboutcloud.io/
-      
+- https://docstracker.marshsecurity.org/
+    
 #### Entra as Code
 - https://github.com/mjendza/workshop-entra-as-code-interactive
 - https://blog.kewalaka.nz/post/2025/11/avm-pim-group-module/
