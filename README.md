@@ -195,11 +195,12 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://www.systanddeploy.com/2025/10/dashboard-of-windows-authentication.html
 - https://learnsentinel.blog/2022/06/21/kql-lessons-learnt-from-365daysofkql/
 - https://github.com/davidalonsod/Dalonso-Security-Repo
-  
+- https://github.com/benscha/KQLAdvancedHunting
+-  
 #### PowerShell 
 - https://www.powershellgallery.com/packages/PSPreworkout
   
-#### Tools
+#### Tools & Usefull Repositories
 - https://github.com/microsoft/EntraExporter
 - https://github.com/microsoft/Microsoft365DSC
 - https://github.com/kayasax/SCIMTool
