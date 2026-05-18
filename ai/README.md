@@ -12,6 +12,11 @@
 - https://github.com/fcakyon/claude-settings
 - https://github.com/affaan-m/everything-claude-code
 
+### 💰
+- https://github.com/getagentseal/codeburn
+- https://github.com/trickv/hass-claude-usage
+- https://github.com/chrishutchinson/claude-receipts
+
 ### Other
 - still nice to make a website https://bolt.new
 - to check: https://paperclip.ing/
