@@ -212,7 +212,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 - https://github.com/Semperis/EntraGoat
 - https://github.com/IdentityMan/MasterclassELDK26
 - https://github.com/maester365/maester
-      
+- https://github.com/jflieben/DriftMaester
+       
 ##### Online Tools
 - https://permissions.factorlabs.pl/
 - https://entrascopes.com/   
