@@ -228,8 +228,9 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 
 
 
-#### Windows
+#### Windows & Intune 
 - https://swjm.blog/the-complete-guide-to-rdp-with-yubikeys-fido2-cba-1bfc50f39b43
+- https://mjshellenberger.com/2024/10/31/configure-microsoft-cloud-pki-a-step-by-step-guide/
 
 #### Development & Samples
 - ASP.NET Web App - Confidential Client: https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
