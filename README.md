@@ -175,7 +175,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 #### Workload Identity
 - https://device-insight.com/en/developers-blog/use-azure-ad-workload-identity-for-pod-assigned-managed-identity-in-aks/
 - https://johnlokerse.dev/2024/05/05/setup-azure-devops-workload-identity-federation-using-azure-bicep/
-
+- https://ourcloudnetwork.com/direct-managed-identity-or-federated-managed-identity/
+  
 #### Account Recovery
 - https://learn.microsoft.com/en-us/entra/identity-platform/tutorial-custom-authentication-extension-account-recovery?tabs=azure-portal
 - https://github.com/Azure-Samples/active-directory-verifiable-credentials-dotnet/tree/main/7-AccountRecovery-ClaimsMatching
