@@ -341,7 +341,8 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 
 - https://report-uri.com/
 - https://redbot.org/
-     
+- https://netbird.io/ (tailscale alternative)
+-     
 #### IaC
 - https://spacelift.io/ (Terraform&OpenTofu)
 - https://registry.terraform.io/modules/Azure-Terraformer/atat/github/latest
