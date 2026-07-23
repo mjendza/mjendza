@@ -11,7 +11,9 @@
 - https://github.com/brennercruvinel/CCPlugins
 - https://github.com/fcakyon/claude-settings
 - https://github.com/affaan-m/everything-claude-code
-
+#### Remote coding
+- https://edjgeek.com/blog/claude-code-sandbox-for-ipad/
+  
 ### 💰
 - https://github.com/getagentseal/codeburn
 - https://github.com/trickv/hass-claude-usage
