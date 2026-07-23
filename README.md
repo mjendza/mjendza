@@ -52,7 +52,7 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 - https://openid.net/specs/openid4vc-high-assurance-interoperability-profile-1_0-final.html
 #### Drafts & Concepts
 - https://github.com/pic-protocol/pic-spec/blob/main/draft/0.1/pic-spec.md
-
+- Wallet to Wallet https://docs.eudi.dev/latest/reference-implementation/feature-map/#wallet-to-wallet
 ### Android support
 - https://android-developers.googleblog.com/2025/04/announcing-android-support-of-digital-credentials.html
 - https://developer.android.com/identity/digital-credentials/credential-verifier
