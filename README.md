@@ -410,6 +410,9 @@ https://jaydoubleu.dev/guides/mcp-azure-oauth2-obo
 ##### Tailscaile
 Enable proxy for service `tailscale serve --service=svc:my-name-of-service --https=3000 http://localhost:3000`
 
+#### Tools 
+- https://ntfy.sh/ 
+
 ### Smarthome (and not only)
 - :heart_eyes_cat: HomeAssistant: https://www.home-assistant.io/
 - esphome https://esphome.io/ (ESP8266 | ESP32 | other => easy yaml config and push to HomeAssistant)
