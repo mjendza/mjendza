@@ -76,6 +76,7 @@ Everything below is a personal, opinionated collection of links and resources th
 
 | Name                                        | Details & Supported Format                                        | Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| FIDES Community                             | Discover organizations shaping the global ecosystem of digital wallets and verifiable credentials |https://fides.community/organizations/                         | 
 | Paradym                                     | Dedicated Wallet (format: sd+vc-json)*                            | https://paradym.id/ & https://play.google.com/store/apps/details?id=id.paradym.wallet         |
 | Entra Verified ID                           | Authenticator App + Wallet SDK from MS                            | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id |
 | Demo: vcplayground                          | jwt-vc-json                                                       | https://vcplayground.org/                                                                     |
