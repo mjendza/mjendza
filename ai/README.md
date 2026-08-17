@@ -24,10 +24,6 @@
 - to check: https://paperclip.ing/
 - https://github.com/AlexsJones/llmfit
 
-### AI
-- https://github.com/AlexsJones/llmfit
--
-
 ### Playground and tools to test
 - https://github.com/ruvnet/ruflo
 - https://claude.com/plugins/claude-code-setup
