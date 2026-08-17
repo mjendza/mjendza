@@ -16,8 +16,22 @@ I enjoy mountain biking (MTB) and spending time in the sauna, but since this is 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjendza&show_icons=true&hide_border=true&theme=transparent)](https://github.com/mjendza)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjendza&layout=compact&hide_border=true&theme=transparent)](https://github.com/mjendza)
+[![Followers](https://img.shields.io/github/followers/mjendza?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/mjendza?tab=followers)
+[![Total stars](https://img.shields.io/github/stars/mjendza?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20stars&color=181717)](https://github.com/mjendza?tab=repositories)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjendza&amp;theme=github_dark">
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mjendza&amp;theme=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjendza&amp;theme=github_dark">
+  <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mjendza&amp;theme=github">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjendza&amp;theme=github_dark">
+  <img alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mjendza&amp;theme=github">
+</picture>
 
 **Find me:** [mjendza.net](https://mjendza.net) · [github.com/mjendza](https://github.com/mjendza)
 
@@ -46,7 +60,11 @@ Everything below is a personal, opinionated collection of links and resources th
 ## What I Build
 
 - [**workshop-entra-as-code-interactive**](https://github.com/mjendza/workshop-entra-as-code-interactive) — hands-on workshop: managing Microsoft Entra ID declaratively, as code.
+  [![Stars](https://img.shields.io/github/stars/mjendza/workshop-entra-as-code-interactive?style=flat&logo=github&label=stars)](https://github.com/mjendza/workshop-entra-as-code-interactive/stargazers)
+  [![Last commit](https://img.shields.io/github/last-commit/mjendza/workshop-entra-as-code-interactive?style=flat&logo=github)](https://github.com/mjendza/workshop-entra-as-code-interactive/commits)
 - [**terraform-provider-verifiedid**](https://github.com/mjendza/terraform-provider-verifiedid) — Terraform provider for Microsoft Entra Verified ID.
+  [![Stars](https://img.shields.io/github/stars/mjendza/terraform-provider-verifiedid?style=flat&logo=github&label=stars)](https://github.com/mjendza/terraform-provider-verifiedid/stargazers)
+  [![Last commit](https://img.shields.io/github/last-commit/mjendza/terraform-provider-verifiedid?style=flat&logo=github)](https://github.com/mjendza/terraform-provider-verifiedid/commits)
 
 ---
 
