@@ -81,6 +81,7 @@ Everything below is a personal, opinionated collection of links and resources th
 | Entra Verified ID                           | Authenticator App + Wallet SDK from MS                            | https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id |
 | Demo: vcplayground                          | jwt-vc-json                                                       | https://vcplayground.org/                                                                     |
 | Demo: funke.animo.id                        | EUDI/cred-ts                                                      | https://funke.animo.id/ - (test credo-ts solution)                                            |
+| Playground: hovie.id                        | EUDI + VerifiedID                                                 | https://playground.hovi.id/                                                                   |
 | Test & Playground EUDI Dev Wallet           | EUDI                                                              | https://eudi-test.dev                                                                         |
 | Unofficial EUDI Wallet Dev Toolkit          | EUDI                                                              | https://github.com/dominikschlosser/eudi-dev                                                  |
 | WalletSDK                                   | works with vcplayground (format:jwt-vc-json)*                     | https://github.com/trustbloc/wallet-sdk                                                       |
