@@ -65,7 +65,9 @@ Everything below is a personal, opinionated collection of links and resources th
 - [**terraform-provider-verifiedid**](https://github.com/mjendza/terraform-provider-verifiedid) — Terraform provider for Microsoft Entra Verified ID.
   [![Stars](https://img.shields.io/github/stars/mjendza/terraform-provider-verifiedid?style=flat&logo=github&label=stars)](https://github.com/mjendza/terraform-provider-verifiedid/stargazers)
   [![Last commit](https://img.shields.io/github/last-commit/mjendza/terraform-provider-verifiedid?style=flat&logo=github)](https://github.com/mjendza/terraform-provider-verifiedid/commits)
-
+- [**agents for Entra ID**](https://github.com/mjendza/terraform-provider-verifiedid) — Series of Entra ID Agents
+  [![Stars](https://img.shields.io/github/stars/mjendza/entra-id-agents?style=flat&logo=github&label=stars)](https://github.com/mjendza/entra-id-agents/stargazers)
+  [![Last commit](https://img.shields.io/github/last-commit/mjendza/entra-id-agents?style=flat&logo=github)](https://github.com/mjendza/entra-id-agents/commits)
 ---
 
 ## Digital Identity
