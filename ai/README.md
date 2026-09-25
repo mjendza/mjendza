@@ -13,7 +13,7 @@
 - https://github.com/affaan-m/everything-claude-code
 #### Remote coding
 - https://edjgeek.com/blog/claude-code-sandbox-for-ipad/
-  
+- https://sandboxes.azure.com/docs/sandboxes  
 ### 💰
 - https://github.com/getagentseal/codeburn
 - https://github.com/trickv/hass-claude-usage
