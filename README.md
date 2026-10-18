@@ -391,6 +391,11 @@ iOS:
 - https://medium.com/@omaxel/allow-access-to-azure-app-service-only-from-azure-front-door-bdfa16bc675d
 - https://cloudtips.nl/securing-azure-web-apps-and-function-apps-with-azure-front-door-e4a5e4071290
 
+### Computing
+#### Container Apps 
+- https://cloudtips.nl/automate-microsoft-azure-tasks-with-azure-container-app-jobs-%EF%B8%8F-c8f8ec037495
+- https://learn.cloudpartner.fi/posts/azure-container-apps-express-built-on-sandboxes
+
 ### DevOps & IaC
 
 - https://azure.github.io/Azure-Verified-Modules/
